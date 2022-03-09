@@ -7,7 +7,7 @@
         "lastName": "Malesani",
         "country": "Italy",
         "bornIn": "Verona",
-        "bornOn": "05-06-1954",
+        "bornOn": "05-06-1954"
       },
       "career": [{
         "season": "1997/1998",
@@ -18,7 +18,7 @@
             "win": 10,
             "draw": 5,
             "loss": 6,
-            "position": "Second",
+            "position": "Second"
           },
           "domesticCup": {
             "name": "Cup",
@@ -26,7 +26,7 @@
             "win": 5,
             "draw": 3,
             "loss": 2,
-            "position": "Second",
+            "position": "Second"
           },
           "domesticSuperCup": {
            "name": "Super Cup",
@@ -34,7 +34,7 @@
             "win": 0,
             "draw": 0,
            "loss": 0,
-            "position": "NA",
+            "position": "NA"
           },
           "championsLeague": {
             "name": "Champions League",
@@ -42,7 +42,7 @@
             "win": 3,
             "draw": 1,
             "loss": 2,
-            "position": "32",
+            "position": "32"
           },
           "uefaCup": {
             "name": "Uefa Cup",
@@ -50,7 +50,7 @@
             "win": 0,
             "draw": 0,
             "loss": 0,
-            "position": "NA",
+            "position": "NA"
           },
           "confederationsCup: {
             "name": "Confederations Cup",
@@ -58,7 +58,7 @@
             "win": 0,
             "draw": 0,
             "loss": 0,
-            "position": "NA",
+            "position": "NA"
           },
           "cupWinners": {
             "name": "Cup Winners Cup",
@@ -66,7 +66,7 @@
             "win": 0,
             "draw": 0,
             "loss": 0,
-            "position": "NA",
+            "position": "NA"
           },
           "international": {
             "name": "International Cup",
@@ -74,9 +74,9 @@
             "win": 0,
             "draw": 0,
             "loss": 0,
-            "position": "NA",
-          },
-        },
-      }, ],
+            "position": "NA"
+          }
+        }
+      } ]
     }
   ]
