@@ -2,7 +2,7 @@
     {
       "id": 1,
       "personal": {
-        "img: "https://www.tifosipalermo.it/wp-content/uploads/2020/06/malesani.png",
+        "img": "https://www.tifosipalermo.it/wp-content/uploads/2020/06/malesani.png",
         "firstName": "Alberto",
         "lastName": "Malesani",
         "country": "Italy",
@@ -28,8 +28,8 @@
             "loss": 2,
             "position": "Second",
           },
-          "domesticSuperCup: {
-           " name: "Super Cup",
+          "domesticSuperCup": {
+           "name": "Super Cup",
             "total": 0,
             "win": 0,
             "draw": 0,
