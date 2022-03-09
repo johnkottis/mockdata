@@ -1,5 +1,4 @@
 [
-    // Alberto Malesani
     {
       id: 1,
       personal: {
@@ -659,7 +658,6 @@
         },
       ],
     },
-    // Hasse Backe
     {
       id: 4,
       personal: {
@@ -740,7 +738,6 @@
         },
       }, ],
     },
-    // Ivan Jovanović
     {
       id: 5,
       personal: {
