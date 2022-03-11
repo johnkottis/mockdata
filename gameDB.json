@@ -2,7 +2,7 @@
     "season": "1992/93",
     "date": "25/1/1993",
     "competition": "Domestic League",
-    "fixture": ["Panathinaikos", "AEK"],
+    "fixture": ["PAO", "AEK"],
     "result": [2, 2, 2, 2, 9, 8],
     "goalscorers": [{
         "player": "Alexoudis",
