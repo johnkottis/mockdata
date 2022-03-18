@@ -18,49 +18,49 @@
               "name": "Super League",
               "appearances": 21,
               "goals": 10,
-              "honours": true
+              "honours": "Πρώτος σκόρερ"
             },
             "domesticCup": {
               "name": "Cup",
               "appearances": 5,
               "goals": 2,
-              "honours": false
+              "honours": "Πρώτος σκόρερ"
             },
             "domesticSuperCup": {
               "name": "Super Cup",
               "appearances": 0,
               "goals": 0,
-              "honours": false
+              "honours": "MVP"
             },
             "championsLeague": {
               "name": "Champions League",
               "appearances": 12,
               "goals": 8,
-              "honours": false
+              "honours": ""
             },
             "uefaCup": {
               "name": "Uefa Cup",
               "appearances": 0,
               "goals": 0,
-              "honours": false
+              "honours": ""
             },
             "confederationsCup": {
               "name": "Confederations Cup",
               "appearances": 0,
               "goals": 0,
-              "honours": false
+              "honours": ""
             },
             "cupWinners": {
               "name": "Cup Winners Cup",
               "appearances": 0,
               "goals": 0,
-              "honours": false
+              "honours": ""
             },
             "international": {
               "name": "International Cup",
               "appearances": 1,
               "goals": 1,
-              "honours": true
+              "honours": ""
             }
           }
         },
@@ -71,49 +71,49 @@
               "name": "Super League",
               "appearances": 23,
               "goals": 25,
-              "honours": true
+              "honours": ""
             },
             "domesticCup": {
               "name": "Cup",
               "appearances": 5,
               "goals": 2,
-              "honours": false
+              "honours": ""
             },
             "domesticSuperCup": {
               "name": "Super Cup",
               "appearances": 1,
               "goals": 4,
-              "honours": true
+              "honours": ""
             },
             "championsLeague": {
               "name": "Champions League",
               "appearances": 12,
               "goals": 8,
-              "honours": false
+              "honours": ""
             },
             "uefaCup": {
               "name": "Uefa Cup",
               "appearances": 0,
               "goals": 0,
-              "honours": false
+              "honours": ""
             },
             "confederationsCup": {
               "name": "Confederations Cup",
               "appearances": 0,
               "goals": 0,
-              "honours": false
+              "honours": ""
             },
             "cupWinners": {
               "name": "Cup Winners Cup",
               "appearances": 0,
               "goals": 0,
-              "honours": false
+              "honours": ""
             },
             "international": {
               "name": "International Cup",
               "appearances": 1,
               "goals": 1,
-              "honours": true
+              "honours": ""
             }
           }
         }
@@ -138,49 +138,49 @@
               "name": "Super League",
               "appearances": 12,
               "goals": 1,
-              "honours": false
+              "honours": ""
             },
             "domesticCup": {
               "name": "Cup",
               "appearances": 3,
               "goals": 1,
-              "honours": false
+              "honours": ""
             },
             "domesticSuperCup": {
               "name": "Super Cup",
               "appearances": 0,
               "goals": 0,
-              "honours": false
+              "honours": ""
             },
             "championsLeague": {
               "name": "Champions League",
               "appearances": 2,
               "goals": 6,
-              "honours": false
+              "honours": ""
             },
             "uefaCup": {
               "name": "Uefa Cup",
               "appearances": 0,
               "goals": 0,
-              "honours": false
+              "honours": ""
             },
             "confederationsCup": {
               "name": "Confederations Cup",
               "appearances": 0,
               "goals": 0,
-              "honours": false
+              "honours": ""
             },
             "cupWinners": {
               "name": "Cup Winners Cup",
               "appearances": 0,
               "goals": 0,
-              "honours": false
+              "honours": ""
             },
             "international": {
               "name": "International Cup",
               "appearances": 1,
               "goals": 1,
-              "honours": true
+              "honours": ""
             }
           }
         }
