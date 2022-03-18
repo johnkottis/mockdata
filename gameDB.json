@@ -29,7 +29,7 @@
         "minute": 110
       }
     ],
-    "country": "Greece"
+    "country": "Ελλάδα"
   },
   {
     "season": "2000/2001",
@@ -43,34 +43,34 @@
   {
     "season": "1995/96",
     "date": "25/1/1996",
-    "competition": "Domestic League",
-    "fixture": ["Panathinaikos", "Ofi"],
+    "competition": "Ελληνικό πρωτάθλημα",
+    "fixture": ["Παναθηναϊκός", "ΟΦΗ"],
     "result": [6, 0],
     "goalscorers": [{
-        "player": "Alexoudis",
+        "player": "Αλεξούδης",
         "minute": 3
       },
       {
-        "player": "Alexoudis",
+        "player": "Αλεξούδης",
         "minute": 8
       },
       {
-        "player": "Donis",
+        "player": "Δώνης",
         "minute": 11
       },
       {
-        "player": "Alexoudis",
+        "player": "Αλεξούδης",
         "minute": 23
       },
       {
-        "player": "Alexoudis",
+        "player": "Αποστολάκης",
         "minute": 39
       },
       {
-        "player": "Alexoudis",
+        "player": "ΓΧ Γεωργιάδης",
         "minute": 84
       }
     ],
-    "country": "Greece"
+    "country": "Ελλάδα"
   }
 ]
