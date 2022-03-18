@@ -1,7 +1,7 @@
 [{
     "season": "1992/93",
     "date": "25/1/1993",
-    "competition": "Domestic League",
+    "competition": "Ελληνικό κύπελλο",
     "fixture": ["Παναθηναϊκός", "ΑΕΚ"],
     "result": [2, 2, 2, 2, 9, 8],
     "goalscorers": [{
@@ -34,7 +34,7 @@
  {
     "season": "1994/95",
     "date": "12/3/1995",
-    "competition": "Domestic League",
+    "competition": "Ελληνικό πρωτάθλημα",
     "fixture": ["ΑΕΚ", "Παναθηναϊκός"],
     "result": [1,1],
     "goalscorers": [{
