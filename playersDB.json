@@ -1,309 +1,304 @@
-[
-{
-id: 3,
-personal: {
-img: "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSEXDnuBsCxoEtwCFlXXpgezSsc6NQkJyjacjobuAU_MAd6arP8jQMmLNrLQu6w",
-firstName: "Χρήστος",
-lastName: "Δώνης",
-country: "Ελλάδα",
-bornIn: "Αθήνα",
-bornOn: "17-02-1982",
-position: "Μέσος"
-},
-career: [
-{
-season: "1997/98",
-competitions: {
-domesticLeague: {
-name: "Super League",
-appearances: 21,
-goals: 10,
-honours: "Πρώτος σκόρερ"
-},
-domesticCup: {
-name: "Cup",
-appearances: 5,
-goals: 2,
-honours: "Πρώτος σκόρερ"
-},
-domesticSuperCup: {
-name: "Super Cup",
-appearances: 0,
-goals: 0,
-honours: "MVP"
-},
-championsLeague: {
-name: "Champions League",
-appearances: 12,
-goals: 8,
-honours: ""
-},
-uefaCup: {
-name: "Uefa Cup",
-appearances: 0,
-goals: 0,
-honours: ""
-},
-confederationsCup: {
-name: "Confederations Cup",
-appearances: 0,
-goals: 0,
-honours: ""
-},
-cupWinners: {
-name: "Cup Winners Cup",
-appearances: 0,
-goals: 0,
-honours: ""
-},
-international: {
-name: "International Cup",
-appearances: 1,
-goals: 1,
-honours: ""
-}
-}
-},
-{
-season: "1998/99",
-competitions: {
-domesticLeague: {
-name: "Super League",
-appearances: 23,
-goals: 25,
-honours: ""
-},
-domesticCup: {
-name: "Cup",
-appearances: 5,
-goals: 2,
-honours: ""
-},
-domesticSuperCup: {
-name: "Super Cup",
-appearances: 1,
-goals: 4,
-honours: ""
-},
-championsLeague: {
-name: "Champions League",
-appearances: 12,
-goals: 8,
-honours: ""
-},
-uefaCup: {
-name: "Uefa Cup",
-appearances: 0,
-goals: 0,
-honours: ""
-},
-confederationsCup: {
-name: "Confederations Cup",
-appearances: 0,
-goals: 0,
-honours: ""
-},
-cupWinners: {
-name: "Cup Winners Cup",
-appearances: 0,
-goals: 0,
-honours: ""
-},
-international: {
-name: "International Cup",
-appearances: 1,
-goals: 1,
-honours: ""
-}
-}
-}
-]
-},
-{
-id: 1,
-personal: {
-img: "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSEXDnuBsCxoEtwCFlXXpgezSsc6NQkJyjacjobuAU_MAd6arP8jQMmLNrLQu6w",
-firstName: "Adriano",
-lastName: "Leite Ribeiro",
-country: "Brazil",
-bornIn: "Rio De Janeiro",
-bornOn: "17-02-1982",
-position: "Striker"
-},
-career: [
-{
-season: "1997/98",
-competitions: {
-domesticLeague: {
-name: "Super League",
-appearances: 21,
-goals: 10,
-honours: "Πρώτος σκόρερ"
-},
-domesticCup: {
-name: "Cup",
-appearances: 5,
-goals: 2,
-honours: "Πρώτος σκόρερ"
-},
-domesticSuperCup: {
-name: "Super Cup",
-appearances: 0,
-goals: 0,
-honours: "MVP"
-},
-championsLeague: {
-name: "Champions League",
-appearances: 12,
-goals: 8,
-honours: ""
-},
-uefaCup: {
-name: "Uefa Cup",
-appearances: 0,
-goals: 0,
-honours: ""
-},
-confederationsCup: {
-name: "Confederations Cup",
-appearances: 0,
-goals: 0,
-honours: ""
-},
-cupWinners: {
-name: "Cup Winners Cup",
-appearances: 0,
-goals: 0,
-honours: ""
-},
-international: {
-name: "International Cup",
-appearances: 1,
-goals: 1,
-honours: ""
-}
-}
-},
-{
-season: "1998/99",
-competitions: {
-domesticLeague: {
-name: "Super League",
-appearances: 23,
-goals: 25,
-honours: ""
-},
-domesticCup: {
-name: "Cup",
-appearances: 5,
-goals: 2,
-honours: ""
-},
-domesticSuperCup: {
-name: "Super Cup",
-appearances: 1,
-goals: 4,
-honours: ""
-},
-championsLeague: {
-name: "Champions League",
-appearances: 12,
-goals: 8,
-honours: ""
-},
-uefaCup: {
-name: "Uefa Cup",
-appearances: 0,
-goals: 0,
-honours: ""
-},
-confederationsCup: {
-name: "Confederations Cup",
-appearances: 0,
-goals: 0,
-honours: ""
-},
-cupWinners: {
-name: "Cup Winners Cup",
-appearances: 0,
-goals: 0,
-honours: ""
-},
-international: {
-name: "International Cup",
-appearances: 1,
-goals: 1,
-honours: ""
-}
-}
-}
-]
-},
-{
-id: 2,
-personal: {
-img: "https://www.si.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc5NTMwMzAxNjQ1NTMwMjQ5/gettyimages-891445.jpg",
-firstName: "Luis Nazario",
-lastName: "Ronaldo",
-country: "Brazil",
-bornIn: "Bento Ribeiro",
-bornOn: "10-12-1942",
-position: "Striker"
-},
-career: [
-{
-season: "2000/01",
-competitions: {
-domesticLeague: {
-name: "Super League",
-appearances: 12,
-goals: 1,
-honours: ""
-},
-domesticCup: {
-name: "Cup",
-appearances: 3,
-goals: 1,
-honours: ""
-},
-domesticSuperCup: {
-name: "Super Cup",
-appearances: 0,
-goals: 0,
-honours: ""
-},
-championsLeague: {
-name: "Champions League",
-appearances: 2,
-goals: 6,
-honours: ""
-},
-uefaCup: {
-name: "Uefa Cup",
-appearances: 0,
-goals: 0,
-honours: ""
-},
-confederationsCup: {
-name: "Confederations Cup",
-appearances: 0,
-goals: 0,
-honours: ""
-},
-cupWinners: {
-name: "Cup Winners Cup",
-appearances: 0,
-goals: 0,
-honours: ""
-},
-international: {
-name: "International Cup",
-appearances: 1,
-goals: 1,
-honours: ""
-}
-}
-}
-]
-}
+[{
+        id: 3,
+        personal: {
+            img: "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSEXDnuBsCxoEtwCFlXXpgezSsc6NQkJyjacjobuAU_MAd6arP8jQMmLNrLQu6w",
+            firstName: "Χρήστος",
+            lastName: "Δώνης",
+            country: "Ελλάδα",
+            bornIn: "Αθήνα",
+            bornOn: "17-02-1982",
+            position: "Μέσος"
+        },
+        career: [{
+                season: "1997/98",
+                competitions: {
+                    domesticLeague: {
+                        name: "Super League",
+                        appearances: 21,
+                        goals: 10,
+                        honours: "Πρώτος σκόρερ"
+                    },
+                    domesticCup: {
+                        name: "Cup",
+                        appearances: 5,
+                        goals: 2,
+                        honours: "Πρώτος σκόρερ"
+                    },
+                    domesticSuperCup: {
+                        name: "Super Cup",
+                        appearances: 0,
+                        goals: 0,
+                        honours: "MVP"
+                    },
+                    championsLeague: {
+                        name: "Champions League",
+                        appearances: 12,
+                        goals: 8,
+                        honours: ""
+                    },
+                    uefaCup: {
+                        name: "Uefa Cup",
+                        appearances: 0,
+                        goals: 0,
+                        honours: ""
+                    },
+                    confederationsCup: {
+                        name: "Confederations Cup",
+                        appearances: 0,
+                        goals: 0,
+                        honours: ""
+                    },
+                    cupWinners: {
+                        name: "Cup Winners Cup",
+                        appearances: 0,
+                        goals: 0,
+                        honours: ""
+                    },
+                    international: {
+                        name: "International Cup",
+                        appearances: 1,
+                        goals: 1,
+                        honours: ""
+                    }
+                }
+            },
+            {
+                season: "1998/99",
+                competitions: {
+                    domesticLeague: {
+                        name: "Super League",
+                        appearances: 23,
+                        goals: 25,
+                        honours: ""
+                    },
+                    domesticCup: {
+                        name: "Cup",
+                        appearances: 5,
+                        goals: 2,
+                        honours: ""
+                    },
+                    domesticSuperCup: {
+                        name: "Super Cup",
+                        appearances: 1,
+                        goals: 4,
+                        honours: ""
+                    },
+                    championsLeague: {
+                        name: "Champions League",
+                        appearances: 12,
+                        goals: 8,
+                        honours: ""
+                    },
+                    uefaCup: {
+                        name: "Uefa Cup",
+                        appearances: 0,
+                        goals: 0,
+                        honours: ""
+                    },
+                    confederationsCup: {
+                        name: "Confederations Cup",
+                        appearances: 0,
+                        goals: 0,
+                        honours: ""
+                    },
+                    cupWinners: {
+                        name: "Cup Winners Cup",
+                        appearances: 0,
+                        goals: 0,
+                        honours: ""
+                    },
+                    international: {
+                        name: "International Cup",
+                        appearances: 1,
+                        goals: 1,
+                        honours: ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        id: 1,
+        personal: {
+            img: "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSEXDnuBsCxoEtwCFlXXpgezSsc6NQkJyjacjobuAU_MAd6arP8jQMmLNrLQu6w",
+            firstName: "Adriano",
+            lastName: "Leite Ribeiro",
+            country: "Brazil",
+            bornIn: "Rio De Janeiro",
+            bornOn: "17-02-1982",
+            position: "Striker"
+        },
+        career: [{
+                season: "1997/98",
+                competitions: {
+                    domesticLeague: {
+                        name: "Super League",
+                        appearances: 21,
+                        goals: 10,
+                        honours: "Πρώτος σκόρερ"
+                    },
+                    domesticCup: {
+                        name: "Cup",
+                        appearances: 5,
+                        goals: 2,
+                        honours: "Πρώτος σκόρερ"
+                    },
+                    domesticSuperCup: {
+                        name: "Super Cup",
+                        appearances: 0,
+                        goals: 0,
+                        honours: "MVP"
+                    },
+                    championsLeague: {
+                        name: "Champions League",
+                        appearances: 12,
+                        goals: 8,
+                        honours: ""
+                    },
+                    uefaCup: {
+                        name: "Uefa Cup",
+                        appearances: 0,
+                        goals: 0,
+                        honours: ""
+                    },
+                    confederationsCup: {
+                        name: "Confederations Cup",
+                        appearances: 0,
+                        goals: 0,
+                        honours: ""
+                    },
+                    cupWinners: {
+                        name: "Cup Winners Cup",
+                        appearances: 0,
+                        goals: 0,
+                        honours: ""
+                    },
+                    international: {
+                        name: "International Cup",
+                        appearances: 1,
+                        goals: 1,
+                        honours: ""
+                    }
+                }
+            },
+            {
+                season: "1998/99",
+                competitions: {
+                    domesticLeague: {
+                        name: "Super League",
+                        appearances: 23,
+                        goals: 25,
+                        honours: ""
+                    },
+                    domesticCup: {
+                        name: "Cup",
+                        appearances: 5,
+                        goals: 2,
+                        honours: ""
+                    },
+                    domesticSuperCup: {
+                        name: "Super Cup",
+                        appearances: 1,
+                        goals: 4,
+                        honours: ""
+                    },
+                    championsLeague: {
+                        name: "Champions League",
+                        appearances: 12,
+                        goals: 8,
+                        honours: ""
+                    },
+                    uefaCup: {
+                        name: "Uefa Cup",
+                        appearances: 0,
+                        goals: 0,
+                        honours: ""
+                    },
+                    confederationsCup: {
+                        name: "Confederations Cup",
+                        appearances: 0,
+                        goals: 0,
+                        honours: ""
+                    },
+                    cupWinners: {
+                        name: "Cup Winners Cup",
+                        appearances: 0,
+                        goals: 0,
+                        honours: ""
+                    },
+                    international: {
+                        name: "International Cup",
+                        appearances: 1,
+                        goals: 1,
+                        honours: ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        id: 2,
+        personal: {
+            img: "https://www.si.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc5NTMwMzAxNjQ1NTMwMjQ5/gettyimages-891445.jpg",
+            firstName: "Luis Nazario",
+            lastName: "Ronaldo",
+            country: "Brazil",
+            bornIn: "Bento Ribeiro",
+            bornOn: "10-12-1942",
+            position: "Striker"
+        },
+        career: [{
+            season: "2000/01",
+            competitions: {
+                domesticLeague: {
+                    name: "Super League",
+                    appearances: 12,
+                    goals: 1,
+                    honours: ""
+                },
+                domesticCup: {
+                    name: "Cup",
+                    appearances: 3,
+                    goals: 1,
+                    honours: ""
+                },
+                domesticSuperCup: {
+                    name: "Super Cup",
+                    appearances: 0,
+                    goals: 0,
+                    honours: ""
+                },
+                championsLeague: {
+                    name: "Champions League",
+                    appearances: 2,
+                    goals: 6,
+                    honours: ""
+                },
+                uefaCup: {
+                    name: "Uefa Cup",
+                    appearances: 0,
+                    goals: 0,
+                    honours: ""
+                },
+                confederationsCup: {
+                    name: "Confederations Cup",
+                    appearances: 0,
+                    goals: 0,
+                    honours: ""
+                },
+                cupWinners: {
+                    name: "Cup Winners Cup",
+                    appearances: 0,
+                    goals: 0,
+                    honours: ""
+                },
+                international: {
+                    name: "International Cup",
+                    appearances: 1,
+                    goals: 1,
+                    honours: ""
+                }
+            }
+        }]
+    }
 ]
