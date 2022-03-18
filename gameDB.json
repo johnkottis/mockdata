@@ -5,27 +5,27 @@
     "fixture": ["Παναθηναϊκός", "ΑΕΚ"],
     "result": [2, 2, 2, 2, 9, 8],
     "goalscorers": [{
-        "player": "Alexoudis",
+        "player": "Αλεξούδης",
         "minute": 3
       },
       {
-        "player": "Maladenis",
+        "player": "Μαλαδένης",
         "minute": 8
       },
       {
-        "player": "Donis",
+        "player": "Δώνης",
         "minute": 74
       },
       {
-        "player": "Maladenis",
+        "player": "Μαλαδένης",
         "minute": 84
       },
       {
-        "player": "Donis",
+        "player": "Δώνης",
         "minute": 95
       },
       {
-        "player": "Maladenis",
+        "player": "Μπατίστα",
         "minute": 110
       }
     ],
@@ -51,11 +51,11 @@
   {
     "season": "2000/2001",
     "date": "25/1/2001",
-    "competition": "Champions League",
+    "competition": "Κύπελλο κυπελλούχων",
     "fixture": ["Panathinaikos", "Barcelona"],
     "result": [0, 0],
     "goalscorers": [],
-    "country": "Spain"
+    "country": "Ισπανία"
   },
   {
     "season": "1995/96",
