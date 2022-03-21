@@ -38,13 +38,13 @@
                     },
                     "domesticSuperCup": {
                         "name": "Super Cup",
-                        "appearances": 5,
-                        "points": 84,
-                        "rebounds": 10,
-                        "assists": 35,
-                        "steals": 2,
+                        "appearances": 0,
+                        "points": 0,
+                        "rebounds": 0,
+                        "assists": 0,
+                        "steals": 0,
                         "blocks": 0,
-                        "turnovers": 6,
+                        "turnovers": 0,
                         "honours": "NA"
                     },
                     "euroleague": {
