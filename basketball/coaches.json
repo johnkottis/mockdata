@@ -1,59 +1,165 @@
-
 [{
     "id": 1,
     "personal": {
-        "img": "https://images.eurohoops.net/2019/12/2aca6ac1-obradoviczeljko_profile-625x375.jpg",
-        "firstName": "Ζέλικο",
-        "lastName": "Ομπράντοβιτς",
-        "country": "Σερβία",
-        "bornIn": "Čačak",
-        "bornOn": "09-03-1960"
+      "img": "https://images.eurohoops.net/2019/12/2aca6ac1-obradoviczeljko_profile-625x375.jpg",
+      "firstName": "Ζέλικο",
+      "lastName": "Ομπράντοβιτς",
+      "country": "Σερβία",
+      "bornIn": "Čačak",
+      "bornOn": "09-03-1960"
     },
     "career": [{
-        "season": "2004/2005",
-        "competitions": {
-            "domesticLeague": {
-                "name": "Α1",
-                "total": 32,
-                "win": 31,
-                "loss": 1,
-                "position": "Πρωταθλητής"
-            },
-            "domesticCup": {
-                "name": "Κύπελλο Ελλάδας",
-                "total": 5,
-                "win": 5,
-                "loss": 0,
-                "position": "Κυπελλούχος"
-            },
-            "domesticSuperCup": {
-                "name": "Super Cup",
-                "total": 1,
-                "win": 1,
-                "loss": 0,
-                "position": "Κυπελλούχος"
-            },
-            "euroleague": {
-                "name": "Champions League",
-                "total": 35,
-                "win": 28,
-                "loss": 7,
-                "position": "Πρωταθλητής"
-            },
-            "coracCup": {
-                "name": "Κύπελλο Κόρατς",
-                "total": 0,
-                "win": 0,
-                "loss": 0,
-                "position": "NA"
-            },
-            "international": {
-                "name": "Διηπειρωτικό κύπελλο",
-                "total": 0,
-                "win": 0,
-                "loss": 0,
-                "position": "NA"
-            }
+      "season": "2004/2005",
+      "competitions": {
+        "domesticLeague": {
+          "name": "Α1",
+          "total": 32,
+          "win": 31,
+          "loss": 1,
+          "position": "Πρωταθλητής"
+        },
+        "domesticCup": {
+          "name": "Κύπελλο Ελλάδας",
+          "total": 5,
+          "win": 5,
+          "loss": 0,
+          "position": "Κυπελλούχος"
+        },
+        "domesticSuperCup": {
+          "name": "Super Cup",
+          "total": 1,
+          "win": 1,
+          "loss": 0,
+          "position": "Κυπελλούχος"
+        },
+        "euroleague": {
+          "name": "Ευρωλίγκα",
+          "total": 35,
+          "win": 28,
+          "loss": 7,
+          "position": "Πρωταθλητής"
+        },
+        "coracCup": {
+          "name": "Κύπελλο Κόρατς",
+          "total": 0,
+          "win": 0,
+          "loss": 0,
+          "position": "NA"
+        },
+        "international": {
+          "name": "Διηπειρωτικό κύπελλο",
+          "total": 0,
+          "win": 0,
+          "loss": 0,
+          "position": "NA"
         }
+      }
     }]
-}]
+  },
+  {
+    "id": 2,
+    "personal": {
+      "img": "https://static01.nyt.com/images/2017/09/28/sports/pitinohistory-sub/pitinohistory-sub-superJumbo.jpg",
+      "firstName": "Ρικ",
+      "lastName": "Πιτίνο",
+      "country": "ΗΠΑ",
+      "bornIn": "Νέα Υόρκη",
+      "bornOn": "18-09-1952"
+    },
+    "career": [{
+        "season": "2020/2021",
+        "competitions": {
+          "domesticLeague": {
+            "name": "Α1",
+            "total": 15,
+            "win": 14,
+            "loss": 1,
+            "position": "Πρωταθλητής"
+          },
+          "domesticCup": {
+            "name": "Κύπελλο Ελλάδας",
+            "total": 1,
+            "win": 1,
+            "loss": 0,
+            "position": "Κυπελλούχος"
+          },
+          "domesticSuperCup": {
+            "name": "Super Cup",
+            "total": 0,
+            "win": 0,
+            "loss": 0,
+            "position": "ΝΑ"
+          },
+          "euroleague": {
+            "name": "Ευρωλίγκα",
+            "total": 15,
+            "win": 12,
+            "loss": 3,
+            "position": "Play off"
+          },
+          "coracCup": {
+            "name": "Κύπελλο Κόρατς",
+            "total": 0,
+            "win": 0,
+            "loss": 0,
+            "position": "NA"
+          },
+          "international": {
+            "name": "Διηπειρωτικό κύπελλο",
+            "total": 0,
+            "win": 0,
+            "loss": 0,
+            "position": "NA"
+          }
+        }
+      },
+      {
+        "season": "2020/2021",
+        "competitions": {
+          "domesticLeague": {
+            "name": "Α1",
+            "total": 8,
+            "win": 8,
+            "loss": 1,
+            "position": "Πρωταθλητής"
+          },
+          "domesticCup": {
+            "name": "Κύπελλο Ελλάδας",
+            "total": 1,
+            "win": 1,
+            "loss": 0,
+            "position": "Κυπελλούχος"
+          },
+          "domesticSuperCup": {
+            "name": "Super Cup",
+            "total": 0,
+            "win": 0,
+            "loss": 0,
+            "position": "ΝΑ"
+          },
+          "euroleague": {
+            "name": "Ευρωλίγκα",
+            "total": 7,
+            "win": 4,
+            "loss": 3,
+            "position": "Play off"
+          },
+          "coracCup": {
+            "name": "Κύπελλο Κόρατς",
+            "total": 0,
+            "win": 0,
+            "loss": 0,
+            "position": "NA"
+          },
+          "international": {
+            "name": "Διηπειρωτικό κύπελλο",
+            "total": 0,
+            "win": 0,
+            "loss": 0,
+            "position": "NA"
+          }
+        }
+      }
+    ]
+  }
+]
