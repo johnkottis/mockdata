@@ -1,61 +1,58 @@
-
-[
-    {
-      "id": 1,
-      "personal": {
+[{
+    "id": 1,
+    "personal": {
         "img": "https://www.tifosipalermo.it/wp-content/uploads/2020/06/malesani.png",
         "firstName": "Ζέλικο",
         "lastName": "Ομπράντοβιτς",
         "country": "Σερβία",
         "bornIn": "Čačak",
         "bornOn": "09-03-1960"
-      },
-      "career": [{
+    },
+    "career": [{
         "season": "2004/2005",
         "competitions": {
-          "domesticLeague": {
-            "name": "Α1",
-            "total": 32,
-            "win": 31,
-            "loss":1
-            "position": "Πρωταθλητής"
-          },
-          "domesticCup": {
-            "name": "Κύπελλο Ελλάδας",
-            "total": 5,
-            "win": 5,
-            "loss": 0,
-            "position": "Κυπελλούχος"
-          },
-          "domesticSuperCup": {
-            "name": "Super Cup",
-            "total": 1,
-            "win": 1,
-            "loss": 0,
-            "position": "Κυπελλούχος"
-          },
-          "euroleague": {
-            "name": "Champions League",
-            "total": 35,
-            "win": 28,
-            "loss": 7,
-            "position": "Πρωταθλητής"
-          },
-          "coracCup": {
-            "name": "Κύπελλο Κόρατς",
-            "total": 0,
-            "win": 0,
-            "loss": 0,
-            "position": "NA"
-          },
-          "international": {
-            "name": "Διηπειρωτικό κύπελλο",
-            "total": 0,
-            "win": 0,
-            "loss": 0,
-            "position": "NA"
-          }
+            "domesticLeague": {
+                "name": "Α1",
+                "total": 32,
+                "win": 31,
+                "loss": 1,
+                "position": "Πρωταθλητής"
+            },
+            "domesticCup": {
+                "name": "Κύπελλο Ελλάδας",
+                "total": 5,
+                "win": 5,
+                "loss": 0,
+                "position": "Κυπελλούχος"
+            },
+            "domesticSuperCup": {
+                "name": "Super Cup",
+                "total": 1,
+                "win": 1,
+                "loss": 0,
+                "position": "Κυπελλούχος"
+            },
+            "euroleague": {
+                "name": "Champions League",
+                "total": 35,
+                "win": 28,
+                "loss": 7,
+                "position": "Πρωταθλητής"
+            },
+            "coracCup": {
+                "name": "Κύπελλο Κόρατς",
+                "total": 0,
+                "win": 0,
+                "loss": 0,
+                "position": "NA"
+            },
+            "international": {
+                "name": "Διηπειρωτικό κύπελλο",
+                "total": 0,
+                "win": 0,
+                "loss": 0,
+                "position": "NA"
+            }
         }
-      } ]
-    }
-  ]
+    }]
+}]
