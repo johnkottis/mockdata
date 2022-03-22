@@ -61,11 +61,11 @@
     "id": 2,
     "personal": {
       "img": "https://static01.nyt.com/images/2017/09/28/sports/pitinohistory-sub/pitinohistory-sub-superJumbo.jpg",
-      "firstName": "Ρικ",
-      "lastName": "Πιτίνο",
-      "country": "ΗΠΑ",
-      "bornIn": "Νέα Υόρκη",
-      "bornOn": "18-09-1952"
+      "firstName": "Τάκης",
+      "lastName": "Κορωναίος",
+      "country": "Ελλάδα",
+      "bornIn": "Ρέθυμνο",
+      "bornOn": "08-10-1952"
     },
     "career": [{
         "season": "2019/2020",
