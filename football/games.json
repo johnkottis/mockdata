@@ -6,27 +6,33 @@
     "result": [2, 2, 2, 2, 9, 8],
     "goalscorers": [{
         "player": "Αλεξούδης",
-        "minute": 3
+        "minute": 3,
+        "team": "ΠΑΟ"
       },
       {
         "player": "Μαλαδένης",
-        "minute": 8
+        "minute": 8,
+        "team": ""
       },
       {
         "player": "Δώνης",
-        "minute": 74
+        "minute": 74,
+        "team": "ΠΑΟ"
       },
       {
         "player": "Μαλαδένης",
-        "minute": 84
+        "minute": 84,
+        "team": ""
       },
       {
         "player": "Δώνης",
-        "minute": 95
+        "minute": 95,
+        "team": "ΠΑΟ"
       },
       {
         "player": "Μπατίστα",
-        "minute": 110
+        "minute": 110,
+        "team": ""
       }
     ],
     "country": "Ελλάδα"
@@ -39,11 +45,13 @@
     "result": [1,1],
     "goalscorers": [{
         "player": "Βαζέχα",
-        "minute": 5
+        "minute": 5,
+        "team": "ΠΑΟ"
       },
       {
         "player": "Μπατίστα",
-        "minute": 82
+        "minute": 82,
+        "team": ""
       }
     ],
     "country": "Ελλάδα"
@@ -65,27 +73,33 @@
     "result": [6, 0],
     "goalscorers": [{
         "player": "Αλεξούδης",
-        "minute": 3
+        "minute": 3,
+        "team": "ΠΑΟ"
       },
       {
         "player": "Αλεξούδης",
-        "minute": 8
+        "minute": 8,
+        "team": "ΠΑΟ"
       },
       {
         "player": "Δώνης",
-        "minute": 11
+        "minute": 11,
+        "team": "ΠΑΟ"
       },
       {
         "player": "Αλεξούδης",
-        "minute": 23
+        "minute": 23,
+        "team": "ΠΑΟ"
       },
       {
         "player": "Αποστολάκης",
-        "minute": 39
+        "minute": 39,
+        "team": "ΠΑΟ"
       },
       {
         "player": "ΓΧ Γεωργιάδης",
-        "minute": 84
+        "minute": 84,
+        "team": "ΠΑΟ"
       }
     ],
     "country": "Ελλάδα"
