@@ -1,1 +1,245 @@
 
+[{
+    "id": 3,
+    "personal": {
+      "img": "https://kingsport.gr/wp-content/uploads/2021/05/xatzinikolaou1.jpg",
+      "firstName": "Όλγα",
+      "lastName": "Χατζηνικολάου",
+      "country": "Ελλάδα",
+      "bornIn": "Αθήνα",
+      "bornOn": "04-06-1981",
+      "position": "Γκαρντ",
+      "height": "1.81"
+    },
+    "career": [{
+        "season": "1996/1997",
+        "competitions": {
+          "domesticLeague": {
+            "name": "Α1",
+            "appearances": 21,
+            "points": 400,
+            "rebounds": 10,
+            "assists": 35,
+            "steals": 65,
+            "blocks": 2,
+            "turnovers": 84,
+            "honours": "Πρώτος σκόρερ"
+          },
+          "domesticCup": {
+            "name": "Κύπελλο Ελλάδας",
+            "appearances": 5,
+            "points": 268,
+            "rebounds": 88,
+            "assists": 29,
+            "steals": 2,
+            "blocks": 0,
+            "turnovers": 17,
+            "honours": "Κυπελλούχος, Πρώτη σκόρερ, MVP τελικού"
+          },
+          "domesticSuperCup": {
+            "name": "Super Cup",
+            "appearances": 0,
+            "points": 0,
+            "rebounds": 0,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "honours": "NA"
+          },
+          "euroleague": {
+            "name": "Κύπελλο πρωταθλητριών",
+            "appearances": 28,
+            "points": 650,
+            "rebounds": 312,
+            "assists": 35,
+            "steals": 45,
+            "blocks": 14,
+            "turnovers": 36,
+            "honours": "Final 4"
+          },
+          "coracCup": {
+            "name": "Κύπελλο Κόρατς",
+            "appearances": 0,
+            "points": 0,
+            "rebounds": 0,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "honours": "ΝΑ"
+          },
+          "international": {
+            "name": "Διηπειρωτικό κύπελλο",
+            "appearances": 0,
+            "points": 0,
+            "rebounds": 0,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "honours": "ΝΑ"
+          }
+        }
+      },
+      {
+        "season": "1997/1998",
+        "competitions": {
+          "domesticLeague": {
+            "name": "Α1",
+            "appearances": 1,
+            "points": 12,
+            "rebounds": 10,
+            "assists": 1,
+            "steals": 2,
+            "blocks": 2,
+            "turnovers": 4,
+            "honours": ""
+          },
+          "domesticCup": {
+            "name": "Κύπελλο Ελλάδας",
+            "appearances": 0,
+            "points": 0,
+            "rebounds": 0,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "honours": ""
+          },
+          "domesticSuperCup": {
+            "name": "Super Cup",
+            "appearances": 0,
+            "points": 0,
+            "rebounds": 0,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "honours": "NA"
+          },
+          "euroleague": {
+            "name": "Κύπελλο πρωταθλητριών",
+            "appearances": 0,
+            "points": 0,
+            "rebounds": 0,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "honours": "ΝΑ"
+          },
+          "coracCup": {
+            "name": "Κύπελλο Κόρατς",
+            "appearances": 0,
+            "points": 0,
+            "rebounds": 0,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "honours": "ΝΑ"
+          },
+          "international": {
+            "name": "Διηπειρωτικό κύπελλο",
+            "appearances": 0,
+            "points": 0,
+            "rebounds": 0,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "honours": "ΝΑ"
+          }
+        }
+      }
+
+    ]
+  },
+
+
+  {
+    "id": 1,
+    "personal": {
+      "img": "https://www.reviewjournal.com/wp-content/uploads/2018/05/10486301_web1_bkw-holmes-may02-18bt03.jpg?crop=1",
+      "firstName": "Sequoia",
+      "lastName": "Holmes",
+      "country": "ΗΠΑ",
+      "bornIn": "Νέα Υόρκη",
+      "bornOn": "13-06-1986",
+      "position": "Φόργουορντ",
+      "height": "1.83"
+    },
+    "career": [{
+      "season": "2019/2020",
+      "competitions": {
+        "domesticLeague": {
+          "name": "Α1",
+          "appearances": 21,
+          "points": 400,
+          "rebounds": 10,
+          "assists": 35,
+          "steals": 65,
+          "blocks": 2,
+          "turnovers": 84,
+          "honours": "Πρωαθλήτρια, Πρώτη σκόρερ, Πρώτη σε ποσοστό ευστοχίας στα τρίποντα, MVP πρωταθλήματος"
+        },
+        "domesticCup": {
+          "name": "Α1",
+          "appearances": 5,
+          "points": 84,
+          "rebounds": 10,
+          "assists": 35,
+          "steals": 2,
+          "blocks": 0,
+          "turnovers": 6,
+          "honours": "Κυπελλούχος, MVP τελικού"
+        },
+        "domesticSuperCup": {
+          "name": "Super Cup",
+          "appearances": 5,
+          "points": 84,
+          "rebounds": 10,
+          "assists": 35,
+          "steals": 2,
+          "blocks": 0,
+          "turnovers": 6,
+          "honours": "NA"
+        },
+        "euroleague": {
+          "name": "Ευρωλίγκα",
+          "appearances": 5,
+          "points": 84,
+          "rebounds": 10,
+          "assists": 35,
+          "steals": 2,
+          "blocks": 0,
+          "turnovers": 6,
+          "honours": ""
+        },
+        "coracCup": {
+          "name": "Κύπελλο Κόρατς",
+          "appearances": 0,
+          "points": 0,
+          "rebounds": 0,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "honours": "ΝΑ"
+        },
+        "international": {
+          "name": "Διηπειρωτικό κύπελλο",
+          "appearances": 0,
+          "points": 0,
+          "rebounds": 0,
+          "assists": 0,
+          "steals": 0,
+          "blocks": 0,
+          "turnovers": 0,
+          "honours": "ΝΑ"
+        }
+      }
+    }]
+  }
+]
