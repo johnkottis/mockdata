@@ -1,0 +1,157 @@
+[
+    {
+      "id": 3,
+      "personal": {
+        "img": "https://kingsport.gr/wp-content/uploads/2021/04/sotiris-pantalewn-panathinaikos.jpg",
+        "firstName": "Σωτήρης",
+        "lastName": "Πανταλέων",
+        "country": "Ελλάδα",
+        "bornIn": "Αθήνα",
+        "bornOn": "21-06-1980",
+        "position": "Κεντρικός",
+        "height": "2.02"
+      },
+      "career": [
+        {
+          "season": "1997/98",
+          "competitions": {
+            "domesticLeague": {
+              "name": "Ελληνικό πρωτάθλημα",
+              "appearances": 21,
+              "goals": 10,
+              "honours": "Πρώτος μπλοκέρ"
+            },
+            "domesticCup": {
+              "name": "Cup",
+              "appearances": 5,
+              "goals": 2,
+              "honours": "Πρώτος σκόρερ"
+            },
+            "domesticSuperCup": {
+              "name": "Super Cup",
+              "appearances": 1,
+              "goals": 0,
+              "honours": "MVP"
+            },
+            "championsLeague": {
+              "name": "Τσάμπιονς λιγκ",
+              "appearances": 5,
+              "goals": 32,
+              "honours": ""
+            },
+            "europeCup": {
+              "name": "Ευρωπαϊκό κύπελλο",
+              "appearances": 0,
+              "goals": 0,
+              "honours": ""
+            },
+            "challengeCup": {
+              "name": "Τσάλεντζ καπ",
+              "appearances": 0,
+              "goals": 0,
+              "honours": ""
+            }
+          }
+        },
+        {
+          "season": "1998/99",
+          "competitions": {
+            "domesticLeague": {
+              "name": "Ελληνικό πρωτάθλημα",
+              "appearances": 23,
+              "goals": 250,
+              "honours": "Πρωταθλητής, MVP πρωταθλήματος"
+            },
+            "domesticCup": {
+              "name": "Cup",
+              "appearances": 5,
+              "goals": 20,
+              "honours": ""
+            },
+            "domesticSuperCup": {
+              "name": "Super Cup",
+              "appearances": 0,
+              "goals": 4,
+              "honours": ""
+            },
+            "championsLeague": {
+              "name": "Τσάμπιονς λιγκ",
+              "appearances": 12,
+              "goals": 8,
+              "honours": ""
+            },
+            "europeCup": {
+              "name": "Ευρωπαϊκό κύπελλο",
+              "appearances": 0,
+              "goals": 0,
+              "honours": ""
+            },
+            "challengeCup": {
+              "name": "Τσάλεντζ καπ",
+              "appearances": 0,
+              "goals": 0,
+              "honours": ""
+            }
+          }
+        }
+      ]
+    }, 
+    
+    
+    {
+      "id": 1,
+      "personal": {
+        "img": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSEXDnuBsCxoEtwCFlXXpgezSsc6NQkJyjacjobuAU_MAd6arP8jQMmLNrLQu6w",
+        "firstName": "Axel",
+        "lastName": "Jacobsen",
+        "country": "Δανία",
+        "bornIn": "",
+        "bornOn": "10-08-1984",
+        "position": "Πασαδόρος"
+      },
+      "career": [
+        {
+          "season": "1997/98",
+          "competitions": {
+            "domesticLeague": {
+              "name": "Ελληνικό πρωτάθλημα",
+              "appearances": 21,
+              "goals": 10,
+              "honours": ""
+            },
+            "domesticCup": {
+              "name": "Ελληνικό κύπελλο",
+              "appearances": 5,
+              "goals": 2,
+              "honours": ""
+            },
+            "domesticSuperCup": {
+              "name": "Super Cup",
+              "appearances": 0,
+              "goals": 0,
+              "honours": ""
+            },
+            "championsLeague": {
+              "name": "Τσάμπιονς λιγκ",
+              "appearances": 12,
+              "goals": 8,
+              "honours": ""
+            },
+            "europeCup": {
+              "name": "Ευρωπαϊκό κύπελλο",
+              "appearances": 0,
+              "goals": 0,
+              "honours": ""
+            },
+            "challengeCup": {
+              "name": "Τσάλεντζ καπ",
+              "appearances": 0,
+              "goals": 0,
+              "honours": ""
+            }
+          }
+        }
+        }
+      ]
+    }
+  ]
