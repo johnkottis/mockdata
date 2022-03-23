@@ -1,1 +1,61 @@
 
+
+[{
+    "id": 1,
+    "personal": {
+      "img": "https://kingsport.gr/wp-content/uploads/2021/04/dimitris-andreopoulos-panathinaikos.jpg",
+      "firstName": "Δημήτρης",
+      "lastName": "Ανδρεόπουλος",
+      "country": "Ελλάδα",
+      "bornIn": "Κόρινθος",
+      "bornOn": "26-10-1964"
+    },
+    "career": [{
+      "season": "2004/2005",
+      "competitions": {
+        "domesticLeague": {
+          "name": "Ελληνικό πρωτάθλημα",
+          "total": 20,
+          "win": 19,
+          "loss": 1,
+          "position": "Πρωταθλητής"
+        },
+        "domesticCup": {
+          "name": "Κύπελλο Ελλάδας",
+          "total": 5,
+          "win": 5,
+          "loss": 0,
+          "position": "Κυπελλούχος"
+        },
+        "domesticSuperCup": {
+          "name": "Super Cup",
+          "total": 1,
+          "win": 1,
+          "loss": 0,
+          "position": "Κυπελλούχος"
+        },
+        "championsLeague": {
+          "name": "Τσάμπιονς Λιγκ",
+          "total": 6,
+          "win": 2,
+          "loss": 4,
+          "position": "Γύρος των 32"
+        },
+        "europeCup": {
+          "name": "Ευρωπαϊκό κύπελλο",
+          "total": 0,
+          "win": 0,
+          "loss": 0,
+          "position": "NA"
+        },
+        "challengeCup": {
+          "name": "Τσάλεντζ Καπ",
+          "total": 0,
+          "win": 0,
+          "loss": 0,
+          "position": "NA"
+        }
+      }
+    }]
+  }
+]
