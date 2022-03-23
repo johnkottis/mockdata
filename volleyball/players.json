@@ -96,12 +96,10 @@
         }
       ]
     }, 
-    
-    
     {
       "id": 1,
       "personal": {
-        "img": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSEXDnuBsCxoEtwCFlXXpgezSsc6NQkJyjacjobuAU_MAd6arP8jQMmLNrLQu6w",
+        "img": "https://voleyplus.com/wp-content/uploads/2020/07/Axel-Jacobsen-Panathinaikos-final-4.jpg",
         "firstName": "Axel",
         "lastName": "Jacobsen",
         "country": "Δανία",
