@@ -1,137 +1,132 @@
-
-[
-    {
-      "id": 3,
-      "personal": {
-        "img": "https://greencorner.gr/media/k2/items/cache/d96e7cb7792c55885e83950e4939204f_Generic.jpg?t=20211022_141556",
-        "firstName": "Ειρήνη",
-        "lastName": "Χατζηευστρατιάδου",
-        "country": "Ελλάδα",
-        "bornIn": "Αθήνα",
-        "bornOn": "	02/09/1995",
-        "position": "Κεντρική",
-        "height": "1.85"
-      },
-      "career": [
-        {
-          "season": "1997/98",
-          "competitions": {
-            "domesticLeague": {
-              "name": "Ελληνικό πρωτάθλημα",
-              "appearances": 21,
-              "honours": "Πρώτος μπλοκέρ"
-            },
-            "domesticCup": {
-              "name": "Cup",
-              "appearances": 5,
-              "honours": "Πρώτος σκόρερ"
-            },
-            "domesticSuperCup": {
-              "name": "Super Cup",
-              "appearances": 1,
-              "honours": "MVP"
-            },
-            "championsLeague": {
-              "name": "Τσάμπιονς λιγκ",
-              "appearances": 5,
-              "honours": ""
-            },
-            "europeCup": {
-              "name": "Ευρωπαϊκό κύπελλο",
-              "appearances": 0,
-              "honours": ""
-            },
-            "challengeCup": {
-              "name": "Τσάλεντζ καπ",
-              "appearances": 0,
-              "honours": ""
-            }
-          }
+[{
+        "id": 3,
+        "personal": {
+            "img": "https://greencorner.gr/media/k2/items/cache/d96e7cb7792c55885e83950e4939204f_Generic.jpg?t=20211022_141556",
+            "firstName": "Ειρήνη",
+            "lastName": "Χατζηευστρατιάδου",
+            "country": "Ελλάδα",
+            "bornIn": "Αθήνα",
+            "bornOn": "02/09/1995",
+            "position": "Κεντρική",
+            "height": "1.85"
         },
-        {
-          "season": "1998/99",
-          "competitions": {
-            "domesticLeague": {
-              "name": "Ελληνικό πρωτάθλημα",
-              "appearances": 23,
-              "honours": "Πρωταθλητής, MVP πρωταθλήματος"
+        "career": [{
+                "season": "1997/98",
+                "competitions": {
+                    "domesticLeague": {
+                        "name": "Ελληνικό πρωτάθλημα",
+                        "appearances": 21,
+                        "honours": "Πρώτος μπλοκέρ"
+                    },
+                    "domesticCup": {
+                        "name": "Cup",
+                        "appearances": 5,
+                        "honours": "Πρώτος σκόρερ"
+                    },
+                    "domesticSuperCup": {
+                        "name": "Super Cup",
+                        "appearances": 1,
+                        "honours": "MVP"
+                    },
+                    "championsLeague": {
+                        "name": "Τσάμπιονς λιγκ",
+                        "appearances": 5,
+                        "honours": ""
+                    },
+                    "europeCup": {
+                        "name": "Ευρωπαϊκό κύπελλο",
+                        "appearances": 0,
+                        "honours": ""
+                    },
+                    "challengeCup": {
+                        "name": "Τσάλεντζ καπ",
+                        "appearances": 0,
+                        "honours": ""
+                    }
+                }
             },
-            "domesticCup": {
-              "name": "Cup",
-              "appearances": 5,
-              "honours": ""
-            },
-            "domesticSuperCup": {
-              "name": "Super Cup",
-              "appearances": 0,
-              "honours": ""
-            },
-            "championsLeague": {
-              "name": "Τσάμπιονς λιγκ",
-              "appearances": 12,
-              "honours": ""
-            },
-            "europeCup": {
-              "name": "Ευρωπαϊκό κύπελλο",
-              "appearances": 0,
-              "honours": ""
-            },
-            "challengeCup": {
-              "name": "Τσάλεντζ καπ",
-              "appearances": 0,
-              "honours": ""
+            {
+                "season": "1998/99",
+                "competitions": {
+                    "domesticLeague": {
+                        "name": "Ελληνικό πρωτάθλημα",
+                        "appearances": 23,
+                        "honours": "Πρωταθλητής, MVP πρωταθλήματος"
+                    },
+                    "domesticCup": {
+                        "name": "Cup",
+                        "appearances": 5,
+                        "honours": ""
+                    },
+                    "domesticSuperCup": {
+                        "name": "Super Cup",
+                        "appearances": 0,
+                        "honours": ""
+                    },
+                    "championsLeague": {
+                        "name": "Τσάμπιονς λιγκ",
+                        "appearances": 12,
+                        "honours": ""
+                    },
+                    "europeCup": {
+                        "name": "Ευρωπαϊκό κύπελλο",
+                        "appearances": 0,
+                        "honours": ""
+                    },
+                    "challengeCup": {
+                        "name": "Τσάλεντζ καπ",
+                        "appearances": 0,
+                        "honours": ""
+                    }
+                }
             }
-          }
-        }
-      ]
-    }, 
+        ]
+    },
     {
-      "id": 1,
-      "personal": {
-        "img": "https://www.trifilara.gr/wp-content/uploads/2022/01/cross_euro-585x390.jpg",
-        "firstName": "Τζένιφερ",
-        "lastName": "Κρος",
-        "country": "Καναδάς",
-        "bornIn": "Τορόντο",
-        "bornOn": "04/07/1992",
-        "position": "Κεντρική"
-      },
-      "career": [
-        {
-          "season": "1997/98",
-          "competitions": {
-            "domesticLeague": {
-              "name": "Ελληνικό πρωτάθλημα",
-              "appearances": 21,
-              "honours": ""
-            },
-            "domesticCup": {
-              "name": "Ελληνικό κύπελλο",
-              "appearances": 5,
-              "honours": ""
-            },
-            "domesticSuperCup": {
-              "name": "Super Cup",
-              "appearances": 0,
-              "honours": ""
-            },
-            "championsLeague": {
-              "name": "Τσάμπιονς λιγκ",
-              "appearances": 12,
-              "honours": ""
-            },
-            "europeCup": {
-              "name": "Ευρωπαϊκό κύπελλο",
-              "appearances": 0,
-              "honours": ""
-            },
-            "challengeCup": {
-              "name": "Τσάλεντζ καπ",
-              "appearances": 0,
-              "honours": ""
+        "id": 1,
+        "personal": {
+            "img": "https://www.trifilara.gr/wp-content/uploads/2022/01/cross_euro-585x390.jpg",
+            "firstName": "Τζένιφερ",
+            "lastName": "Κρος",
+            "country": "Καναδάς",
+            "bornIn": "Τορόντο",
+            "bornOn": "04/07/1992",
+            "position": "Κεντρική"
+        },
+        "career": [{
+            "season": "1997/98",
+            "competitions": {
+                "domesticLeague": {
+                    "name": "Ελληνικό πρωτάθλημα",
+                    "appearances": 21,
+                    "honours": ""
+                },
+                "domesticCup": {
+                    "name": "Ελληνικό κύπελλο",
+                    "appearances": 5,
+                    "honours": ""
+                },
+                "domesticSuperCup": {
+                    "name": "Super Cup",
+                    "appearances": 0,
+                    "honours": ""
+                },
+                "championsLeague": {
+                    "name": "Τσάμπιονς λιγκ",
+                    "appearances": 12,
+                    "honours": ""
+                },
+                "europeCup": {
+                    "name": "Ευρωπαϊκό κύπελλο",
+                    "appearances": 0,
+                    "honours": ""
+                },
+                "challengeCup": {
+                    "name": "Τσάλεντζ καπ",
+                    "appearances": 0,
+                    "honours": ""
+                }
             }
-          }
-        }
-      ]
+        }]
     }
-  ]
+]
