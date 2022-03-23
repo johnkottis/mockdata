@@ -3,14 +3,14 @@
     {
       "id": 3,
       "personal": {
-        "img": "https://kingsport.gr/wp-content/uploads/2021/04/sotiris-pantalewn-panathinaikos.jpg",
-        "firstName": "Σωτήρης",
-        "lastName": "Πανταλέων",
+        "img": "https://greencorner.gr/media/k2/items/cache/d96e7cb7792c55885e83950e4939204f_Generic.jpg?t=20211022_141556",
+        "firstName": "Ειρήνη",
+        "lastName": "Χατζηευστρατιάδου",
         "country": "Ελλάδα",
         "bornIn": "Αθήνα",
-        "bornOn": "21-06-1980",
-        "position": "Κεντρικός",
-        "height": "2.02"
+        "bornOn": "	02/09/1995",
+        "position": "Κεντρικ;h",
+        "height": "1.85"
       },
       "career": [
         {
@@ -88,13 +88,13 @@
     {
       "id": 1,
       "personal": {
-        "img": "https://voleyplus.com/wp-content/uploads/2020/07/Axel-Jacobsen-Panathinaikos-final-4.jpg",
-        "firstName": "Axel",
-        "lastName": "Jacobsen",
-        "country": "Δανία",
-        "bornIn": "",
-        "bornOn": "10-08-1984",
-        "position": "Πασαδόρος"
+        "img": "https://www.trifilara.gr/wp-content/uploads/2022/01/cross_euro-585x390.jpg",
+        "firstName": "Τζένιφερ",
+        "lastName": "Κρος",
+        "country": "Καναδάς",
+        "bornIn": "Τορόντο",
+        "bornOn": "04/07/1992",
+        "position": "Κεντριή"
       },
       "career": [
         {
