@@ -1,1 +1,131 @@
 
+
+[{
+    "id": 1,
+    "personal": {
+      "img": "https://cdn3.vectorstock.com/i/1000x1000/08/37/profile-icon-male-user-person-avatar-symbol-vector-20910837.jpg",
+      "firstName": "Προπονητής",
+      "lastName": "Δέλτα ",
+      "country": "Ελλάδα",
+      "bornIn": "Κόρινθος",
+      "bornOn": "26-10-1964"
+    },
+    "career": [{
+      "season": "2004/2005",
+      "competitions": {
+        "domesticLeague": {
+          "name": "Ελληνικό πρωτάθλημα",
+          "total": 20,
+          "win": 19,
+          "draw":10,
+          "loss": 1,
+          "position": "Πρωταθλητής"
+        },
+        "domesticCup": {
+          "name": "Κύπελλο Ελλάδας",
+          "total": 5,
+          "win": 5,
+          "draw":10,
+          "loss": 0,
+          "position": "Κυπελλούχος"
+        },
+        "domesticSuperCup": {
+          "name": "Super Cup",
+          "total": 1,
+          "win": 1,
+          "draw":10,
+          "loss": 0,
+          "position": "Κυπελλούχος"
+        },
+        "championsLeague": {
+          "name": "Τσάμπιονς Λιγκ",
+          "total": 6,
+          "win": 2,
+          "draw":10,
+          "loss": 4,
+          "position": "Γύρος των 32"
+        },
+        "europeCup": {
+          "name": "Euro Cup ΑΝΔΡΩΝ",
+          "total": 0,
+          "win": 0,
+          "draw":0,
+          "loss": 0,
+          "position": "NA"
+        },
+        "otherEuropeCup": {
+          "name": "Τσάλεντζ Καπ",
+          "total": 0,
+          "win": 0,
+          "draw":0,
+          "loss": 0,
+          "position": "NA"
+        }
+      }
+    }]
+  },
+ {
+    "id": 2,
+    "personal": {
+      "img": "https://cdn3.vectorstock.com/i/1000x1000/08/37/profile-icon-male-user-person-avatar-symbol-vector-20910837.jpg",
+      "firstName": "Προπονητής",
+      "lastName": "Προπονηταράς B",
+      "country": "Ελβετία",
+      "bornIn": "Γενέβη",
+      "bornOn": "26-10-1964"
+    },
+    "career": [{
+      "season": "2004/2005",
+      "competitions": {
+        "domesticLeague": {
+          "name": "Ελληνικό πρωτάθλημα",
+          "total": 1,
+          "win": 1,
+          "draw":0,
+          "loss": 0,
+          "position": "Πρωταθλητής"
+        },
+        "domesticCup": {
+          "name": "Κύπελλο Ελλάδας",
+          "total": 5,
+          "win": 5,
+          "draw":10,
+          "loss": 0,
+          "position": "Κυπελλούχος"
+        },
+        "domesticSuperCup": {
+          "name": "Super Cup",
+          "total": 1,
+          "win": 1,
+          "draw":10,
+          "loss": 0,
+          "position": "Κυπελλούχος"
+        },
+        "championsLeague": {
+          "name": "Τσάμπιονς Λιγκ",
+          "total": 6,
+          "win": 2,
+          "draw":10,
+          "loss": 4,
+          "position": "Γύρος των 32"
+        },
+        "europeCup": {
+          "name": "Euro Cup ΑΝΔΡΩΝ",
+          "total": 0,
+          "win": 0,
+          "draw":0,
+          "loss": 0,
+          "position": "NA"
+        },
+        "otherEuropeCup": {
+          "name": "Τσάλεντζ Καπ",
+          "total": 0,
+          "win": 0,
+          "draw":0,
+          "loss": 0,
+          "position": "NA"
+        }
+      }
+    }]
+  }
+]
