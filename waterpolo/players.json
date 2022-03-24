@@ -80,11 +80,13 @@
                     "europeCup": {
                         "name": "Euro Cup ΑΝΔΡΩΝ",
                         "appearances": 0,
+                        "goals": 0,
                         "honours": ""
                     },
                     "otherEuropeCup": {
                         "name": "Τσάλεντζ καπ",
                         "appearances": 0,
+                        "goals": 0,
                         "honours": ""
                     }
                 }
@@ -103,7 +105,7 @@
             "position": "Περιφερειακός"
         },
         "career": [{
-            "season": "1997/98",
+            "season": "1998/1999",
             "competitions": {
                 "domesticLeague": {
                     "name": "Ελληνικό πρωτάθλημα",
