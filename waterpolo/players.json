@@ -1,7 +1,7 @@
 [{
         "id": 3,
         "personal": {
-            "img": "https://kingsport.gr/wp-content/uploads/2021/04/sotiris-pantalewn-panathinaikos.jpg",
+            "img": "https://cdn3.vectorstock.com/i/1000x1000/08/37/profile-icon-male-user-person-avatar-symbol-vector-20910837.jpg",
             "firstName": "Πολίστας",
             "lastName": "Άλφα",
             "country": "Ελλάδα",
@@ -96,7 +96,7 @@
     {
         "id": 1,
         "personal": {
-            "img": "https://voleyplus.com/wp-content/uploads/2020/07/Axel-Jacobsen-Panathinaikos-final-4.jpg",
+            "img": "https://cdn3.vectorstock.com/i/1000x1000/08/37/profile-icon-male-user-person-avatar-symbol-vector-20910837.jpg",
             "firstName": "Πολίστας",
             "lastName": "Beta",
             "country": "Δανία",
