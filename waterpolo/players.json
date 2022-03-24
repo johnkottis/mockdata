@@ -1,147 +1,147 @@
-[
-    {
-      "id": 3,
-      "personal": {
-        "img": "https://kingsport.gr/wp-content/uploads/2021/04/sotiris-pantalewn-panathinaikos.jpg",
-        "firstName": "Πολίστας",
-        "lastName": "Άλφα",
-        "country": "Ελλάδα",
-        "bornIn": "Αθήνα",
-        "bornOn": "21-06-1980",
-        "position": "Φουνταριστός"
-      },
-      "career": [
-        {
-          "season": "1997/98",
-          "competitions": {
-            "domesticLeague": {
-              "name": "Ελληνικό πρωτάθλημα",
-              "appearances": 21,
-              "goals": 250,
-              "honours": "Πρώτος μπλοκέρ"
-            },
-            "domesticCup": {
-              "name": "Ελληνικό κύπελλοp",
-              "appearances": 5,
-              "goals": 24,
-              "honours": "Πρώτος σκόρερ"
-            },
-            "domesticSuperCup": {
-              "name": "Super Cup",
-              "appearances": 1,
-              "goals": 12,
-              "honours": "MVP"
-            },
-            "championsLeague": {
-              "name": "Τσάμπιονς λιγκ",
-              "appearances": 5,
-              "goals": 58,
-              "honours": ""
-            },
-            "europeCup": {
-              "name": "Euro Cup ΑΝΔΡΩΝ",
-              "appearances": 0,
-              "honours": ""
-            },
-            "otherEuropeCup": {
-              "name": "Τσάλεντζ καπ",
-              "appearances": 0,
-              "honours": ""
-            }
-          }
+[{
+        "id": 3,
+        "personal": {
+            "img": "https://kingsport.gr/wp-content/uploads/2021/04/sotiris-pantalewn-panathinaikos.jpg",
+            "firstName": "Πολίστας",
+            "lastName": "Άλφα",
+            "country": "Ελλάδα",
+            "bornIn": "Αθήνα",
+            "bornOn": "21-06-1980",
+            "position": "Φουνταριστός"
         },
-        {
-            "season": "1998/1999",
-            "competitions": {
-              "domesticLeague": {
-                "name": "Ελληνικό πρωτάθλημα",
-                "appearances": 21,
-                "goals": 250,
-                "honours": "Πρώτος μπλοκέρ"
-              },
-              "domesticCup": {
-                "name": "Ελληνικό κύπελλοp",
-                "appearances": 5,
-                "goals": 24,
-                "honours": "Πρώτος σκόρερ"
-              },
-              "domesticSuperCup": {
-                "name": "Super Cup",
-                "appearances": 1,
-                "goals": 12,
-                "honours": "MVP"
-              },
-              "championsLeague": {
-                "name": "Τσάμπιονς λιγκ",
-                "appearances": 5,
-                "goals": 58,
-                "honours": ""
-              },
-              "europeCup": {
-                "name": "Euro Cup ΑΝΔΡΩΝ",
-                "appearances": 0,
-                "honours": ""
-              },
-              "otherEuropeCup": {
-                "name": "Τσάλεντζ καπ",
-                "appearances": 0,
-                "honours": ""
-              }
+        "career": [{
+                "season": "1997/98",
+                "competitions": {
+                    "domesticLeague": {
+                        "name": "Ελληνικό πρωτάθλημα",
+                        "appearances": 21,
+                        "goals": 250,
+                        "honours": "Πρώτος μπλοκέρ"
+                    },
+                    "domesticCup": {
+                        "name": "Ελληνικό κύπελλοp",
+                        "appearances": 5,
+                        "goals": 24,
+                        "honours": "Πρώτος σκόρερ"
+                    },
+                    "domesticSuperCup": {
+                        "name": "Super Cup",
+                        "appearances": 1,
+                        "goals": 12,
+                        "honours": "MVP"
+                    },
+                    "championsLeague": {
+                        "name": "Τσάμπιονς λιγκ",
+                        "appearances": 5,
+                        "goals": 58,
+                        "honours": ""
+                    },
+                    "europeCup": {
+                        "name": "Euro Cup ΑΝΔΡΩΝ",
+                        "appearances": 0,
+                        "goals": 0,
+                        "honours": ""
+                    },
+                    "otherEuropeCup": {
+                        "name": "Τσάλεντζ καπ",
+                        "appearances": 0,
+                        "goals": 0,
+                        "honours": ""
+                    }
+                }
+            },
+            {
+                "season": "1998/1999",
+                "competitions": {
+                    "domesticLeague": {
+                        "name": "Ελληνικό πρωτάθλημα",
+                        "appearances": 21,
+                        "goals": 250,
+                        "honours": "Πρώτος μπλοκέρ"
+                    },
+                    "domesticCup": {
+                        "name": "Ελληνικό κύπελλοp",
+                        "appearances": 5,
+                        "goals": 24,
+                        "honours": "Πρώτος σκόρερ"
+                    },
+                    "domesticSuperCup": {
+                        "name": "Super Cup",
+                        "appearances": 1,
+                        "goals": 12,
+                        "honours": "MVP"
+                    },
+                    "championsLeague": {
+                        "name": "Τσάμπιονς λιγκ",
+                        "appearances": 5,
+                        "goals": 58,
+                        "honours": ""
+                    },
+                    "europeCup": {
+                        "name": "Euro Cup ΑΝΔΡΩΝ",
+                        "appearances": 0,
+                        "honours": ""
+                    },
+                    "otherEuropeCup": {
+                        "name": "Τσάλεντζ καπ",
+                        "appearances": 0,
+                        "honours": ""
+                    }
+                }
             }
-          }
-      ]
-    }, 
+        ]
+    },
     {
-      "id": 1,
-      "personal": {
-        "img": "https://voleyplus.com/wp-content/uploads/2020/07/Axel-Jacobsen-Panathinaikos-final-4.jpg",
-        "firstName": "Πολίστας",
-        "lastName": "Beta",
-        "country": "Δανία",
-        "bornIn": "",
-        "bornOn": "10-08-1984",
-        "position": "Περιφερειακός"
-      },
-      "career": [
-        {
-            "season": "1998/1999",
+        "id": 1,
+        "personal": {
+            "img": "https://voleyplus.com/wp-content/uploads/2020/07/Axel-Jacobsen-Panathinaikos-final-4.jpg",
+            "firstName": "Πολίστας",
+            "lastName": "Beta",
+            "country": "Δανία",
+            "bornIn": "",
+            "bornOn": "10-08-1984",
+            "position": "Περιφερειακός"
+        },
+        "career": [{
+            "season": "1997/98",
             "competitions": {
-              "domesticLeague": {
-                "name": "Ελληνικό πρωτάθλημα",
-                "appearances": 21,
-                "goals": 250,
-                "honours": "Πρώτος μπλοκέρ"
-              },
-              "domesticCup": {
-                "name": "Ελληνικό κύπελλοp",
-                "appearances": 5,
-                "goals": 24,
-                "honours": "Πρώτος σκόρερ"
-              },
-              "domesticSuperCup": {
-                "name": "Super Cup",
-                "appearances": 1,
-                "goals": 12,
-                "honours": "MVP"
-              },
-              "championsLeague": {
-                "name": "Τσάμπιονς λιγκ",
-                "appearances": 5,
-                "goals": 58,
-                "honours": ""
-              },
-              "europeCup": {
-                "name": "Euro Cup ΑΝΔΡΩΝ",
-                "appearances": 0,
-                "honours": ""
-              },
-              "otherEuropeCup": {
-                "name": "Τσάλεντζ καπ",
-                "appearances": 0,
-                "honours": ""
-              }
+                "domesticLeague": {
+                    "name": "Ελληνικό πρωτάθλημα",
+                    "appearances": 21,
+                    "goals": 250,
+                    "honours": "Πρώτος μπλοκέρ"
+                },
+                "domesticCup": {
+                    "name": "Ελληνικό κύπελλοp",
+                    "appearances": 5,
+                    "goals": 24,
+                    "honours": "Πρώτος σκόρερ"
+                },
+                "domesticSuperCup": {
+                    "name": "Super Cup",
+                    "appearances": 1,
+                    "goals": 12,
+                    "honours": "MVP"
+                },
+                "championsLeague": {
+                    "name": "Τσάμπιονς λιγκ",
+                    "appearances": 5,
+                    "goals": 58,
+                    "honours": ""
+                },
+                "europeCup": {
+                    "name": "Euro Cup ΑΝΔΡΩΝ",
+                    "appearances": 0,
+                    "goals": 0,
+                    "honours": ""
+                },
+                "otherEuropeCup": {
+                    "name": "Τσάλεντζ καπ",
+                    "appearances": 0,
+                    "goals": 0,
+                    "honours": ""
+                }
             }
-          }
-      ]
+        }]
     }
-  ]
+]
