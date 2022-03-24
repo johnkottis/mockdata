@@ -1,1 +1,150 @@
 
+[{
+        "id": 3,
+        "personal": {
+            "img": "https://cdn3.vectorstock.com/i/1000x1000/08/37/profile-icon-male-user-person-avatar-symbol-vector-20910837.jpg",
+            "firstName": "Πολίστρια",
+            "lastName": "Άλφα",
+            "country": "Ελλάδα",
+            "bornIn": "Αθήνα",
+            "bornOn": "21-06-1980",
+            "position": "Φουνταριστή"
+        },
+        "career": [{
+                "season": "1997/98",
+                "competitions": {
+                    "domesticLeague": {
+                        "name": "Ελληνικό πρωτάθλημα",
+                        "appearances": 21,
+                        "goals": 250,
+                        "honours": "Πρώτος μπλοκέρ"
+                    },
+                    "domesticCup": {
+                        "name": "Ελληνικό κύπελλοp",
+                        "appearances": 5,
+                        "goals": 24,
+                        "honours": "Πρώτος σκόρερ"
+                    },
+                    "domesticSuperCup": {
+                        "name": "Super Cup",
+                        "appearances": 1,
+                        "goals": 12,
+                        "honours": "MVP"
+                    },
+                    "championsLeague": {
+                        "name": "Τσάμπιονς λιγκ",
+                        "appearances": 5,
+                        "goals": 58,
+                        "honours": ""
+                    },
+                    "europeCup": {
+                        "name": "Euro Cup ΑΝΔΡΩΝ",
+                        "appearances": 0,
+                        "goals": 0,
+                        "honours": ""
+                    },
+                    "otherEuropeCup": {
+                        "name": "Τσάλεντζ καπ",
+                        "appearances": 0,
+                        "goals": 0,
+                        "honours": ""
+                    }
+                }
+            },
+            {
+                "season": "1998/1999",
+                "competitions": {
+                    "domesticLeague": {
+                        "name": "Ελληνικό πρωτάθλημα",
+                        "appearances": 21,
+                        "goals": 250,
+                        "honours": "Πρώτος μπλοκέρ"
+                    },
+                    "domesticCup": {
+                        "name": "Ελληνικό κύπελλοp",
+                        "appearances": 5,
+                        "goals": 24,
+                        "honours": "Πρώτος σκόρερ"
+                    },
+                    "domesticSuperCup": {
+                        "name": "Super Cup",
+                        "appearances": 1,
+                        "goals": 12,
+                        "honours": "MVP"
+                    },
+                    "championsLeague": {
+                        "name": "Τσάμπιονς λιγκ",
+                        "appearances": 5,
+                        "goals": 58,
+                        "honours": ""
+                    },
+                    "europeCup": {
+                        "name": "Euro Cup ΑΝΔΡΩΝ",
+                        "appearances": 0,
+                        "goals": 0,
+                        "honours": ""
+                    },
+                    "otherEuropeCup": {
+                        "name": "Τσάλεντζ καπ",
+                        "appearances": 0,
+                        "goals": 0,
+                        "honours": ""
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "personal": {
+            "img": "https://cdn3.vectorstock.com/i/1000x1000/08/37/profile-icon-male-user-person-avatar-symbol-vector-20910837.jpg",
+            "firstName": "Πολίστρια",
+            "lastName": "Beta",
+            "country": "Δανία",
+            "bornIn": "",
+            "bornOn": "10-08-1984",
+            "position": "Περιφερειακός"
+        },
+        "career": [{
+            "season": "1998/1999",
+            "competitions": {
+                "domesticLeague": {
+                    "name": "Ελληνικό πρωτάθλημα",
+                    "appearances": 21,
+                    "goals": 250,
+                    "honours": "Πρώτος μπλοκέρ"
+                },
+                "domesticCup": {
+                    "name": "Ελληνικό κύπελλοp",
+                    "appearances": 5,
+                    "goals": 24,
+                    "honours": "Πρώτη σκόρερ"
+                },
+                "domesticSuperCup": {
+                    "name": "Super Cup",
+                    "appearances": 1,
+                    "goals": 12,
+                    "honours": "MVP"
+                },
+                "championsLeague": {
+                    "name": "Τσάμπιονς λιγκ",
+                    "appearances": 5,
+                    "goals": 58,
+                    "honours": ""
+                },
+                "europeCup": {
+                    "name": "Euro Cup ΑΝΔΡΩΝ",
+                    "appearances": 0,
+                    "goals": 0,
+                    "honours": ""
+                },
+                "otherEuropeCup": {
+                    "name": "Τσάλεντζ καπ",
+                    "appearances": 0,
+                    "goals": 0,
+                    "honours": ""
+                }
+            }
+        }]
+    }
+]
