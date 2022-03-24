@@ -18,37 +18,37 @@
               "name": "Ελληνικό πρωτάθλημα",
               "appearances": 21,
               "honours": "Πρώτος μπλοκέρ",
-              "goal: 15
+              "goal": 15
             },
             "domesticCup": {
               "name": "Ελληνικό κύπελλο",
               "appearances": 5,
               "honours": "Πρώτος σκόρερ",
-              "goal: 8
+              "goal": 8
             },
             "domesticSuperCup": {
               "name": "Super Cup",
               "appearances": 1,
               "honours": "MVP",
-              "goal: 24
+              "goal": 24
             },
             "championsLeague": {
               "name": "Τσάμπιονς λιγκ",
               "appearances": 5,
               "honours": "",
-              "goal: 6
+              "goal": 6
             },
             "europeCup": {
               "name": "Euro Cup ΑΝΔΡΩΝ",
               "appearances": 0,
               "honours": "",
-              "goal: 1
+              "goal": 1
             },
             "otherEuropeCup": {
               "name": "Τσάλεντζ καπ",
               "appearances": 0,
               "honours": "",
-              "goal: 0
+              "goal": 0
             }
           }
         },
@@ -59,37 +59,37 @@
               "name": "Ελληνικό πρωτάθλημα",
               "appearances": 23,
               "honours": "Πρωταθλητής, MVP πρωταθλήματος",
-              "goal: 25
+              "goal": 25
             },
             "domesticCup": {
               "name": "Ελληνικό ύπελλο",
               "appearances": 5,
               "honours": "",
-              "goal: 15
+              "goal": 15
             },
             "domesticSuperCup": {
               "name": "Super Cup",
               "appearances": 0,
               "honours": "",
-              "goal: 0
+              "goal": 0
             },
             "championsLeague": {
               "name": "Τσάμπιονς λιγκ",
               "appearances": 0,
               "honours": "",
-              "goal: 0
+              "goal": 0
             },
             "europeCup": {
               "name": "Euro Cup ΑΝΔΡΩΝ",
               "appearances": 0,
               "honours": "",
-              "goal: 0
+              "goal": 0
             },
             "otherEuropeCup": {
               "name": "Τσάλεντζ καπ",
               "appearances": 0,
               "honours": "",
-              "goal: 0
+              "goal": 0
             }
           }
         }
@@ -114,37 +114,37 @@
               "name": "Ελληνικό πρωτάθλημα",
               "appearances": 80,
               "honours": "",
-              "goal: 0
+              "goal": 0
             },
             "domesticCup": {
               "name": "Ελληνικό κύπελλο",
               "appearances": 5,
               "honours": "Πρώτος σκόρερ",
-              "goal: 0
+              "goal": 0
             },
             "domesticSuperCup": {
               "name": "Super Cup",
               "appearances": 1,
               "honours": "MVP",
-              "goal: 0
+              "goal": 0
             },
             "championsLeague": {
               "name": "Τσάμπιονς λιγκ",
               "appearances": 5,
               "honours": "",
-              "goal: 0
+              "goal": 0
             },
             "europeCup": {
               "name": "ΕEuro Cup ΑΝΔΡΩΝ",
               "appearances": 0,
               "honours": "",
-              "goal: 0
+              "goal": 0
             },
             "otherEuropeCup": {
               "name": "Τσάλεντζ καπ",
               "appearances": 0,
               "honours": "",
-              "goal: 0
+              "goal": 0
             }
           }
         },
@@ -155,37 +155,37 @@
               "name": "Ελληνικό πρωτάθλημα",
               "appearances": 23,
               "honours": "Πρωταθλητής, MVP πρωταθλήματος",
-              "goal: 0
+              "goal": 0
             },
             "domesticCup": {
               "name": "Ελληνικό ύπελλο",
               "appearances": 5,
               "honours": "",
-              "goal: 0
+              "goal": 0
             },
             "domesticSuperCup": {
               "name": "Super Cup",
               "appearances": 0,
               "honours": "",
-              "goal: 0
+              "goal": 0
             },
             "championsLeague": {
               "name": "Τσάμπιονς λιγκ",
               "appearances": 0,
               "honours": "",
-              "goal: 0
+              "goal": 0
             },
             "europeCup": {
               "name": "Euro Cup ΑΝΔΡΩΝ",
               "appearances": 0,
               "honours": "",
-              "goal: 0
+              "goal": 0
             },
             "otherEuropeCup": {
               "name": "Τσάλεντζ καπ",
               "appearances": 0,
               "honours": "",
-              "goal: 0
+              "goal": 0
             }
           }
         }
