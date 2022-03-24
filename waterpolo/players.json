@@ -1,194 +1,191 @@
-[
-    {
-      "id": 3,
-      "personal": {
-        "img": "https://www.avgi.gr/sites/default/files/styles/og_image/public/2021-10/POLO.jpg?itok=UzsVACGg",
-        "firstName": "Πολίστας",
-        "lastName": "Άλφα",
-        "country": "Ελλάδα",
-        "bornIn": "Αθήνα",
-        "bornOn": "21-06-1980",
-        "position": "Φουνταριστός"
-      },
-      "career": [
-        {
-          "season": "1997/98",
-          "competitions": {
-            "domesticLeague": {
-              "name": "Ελληνικό πρωτάθλημα",
-              "appearances": 21,
-              "honours": "Πρώτος μπλοκέρ",
-              "goals": 15
-            },
-            "domesticCup": {
-              "name": "Ελληνικό κύπελλο",
-              "appearances": 5,
-              "honours": "Πρώτος σκόρερ",
-              "goals": 8
-            },
-            "domesticSuperCup": {
-              "name": "Super Cup",
-              "appearances": 1,
-              "honours": "MVP",
-              "goals": 24
-            },
-            "championsLeague": {
-              "name": "Τσάμπιονς λιγκ",
-              "appearances": 5,
-              "honours": "",
-              "goals": 6
-            },
-            "europeCup": {
-              "name": "Euro Cup ΑΝΔΡΩΝ",
-              "appearances": 0,
-              "honours": "",
-              "goals": 1
-            },
-            "otherEuropeCup": {
-              "name": "Τσάλεντζ καπ",
-              "appearances": 0,
-              "honours": "",
-              "goals": 0
-            }
-          }
-        },
-        {
-          "season": "1998/99",
-          "competitions": {
-            "domesticLeague": {
-              "name": "Ελληνικό πρωτάθλημα",
-              "appearances": 23,
-              "honours": "Πρωταθλητής, MVP πρωταθλήματος",
-              "goals": 25
-            },
-            "domesticCup": {
-              "name": "Ελληνικό ύπελλο",
-              "appearances": 5,
-              "honours": "",
-              "goals": 15
-            },
-            "domesticSuperCup": {
-              "name": "Super Cup",
-              "appearances": 0,
-              "honours": "",
-              "goals": 0
-            },
-            "championsLeague": {
-              "name": "Τσάμπιονς λιγκ",
-              "appearances": 0,
-              "honours": "",
-              "goals": 0
-            },
-            "europeCup": {
-              "name": "Euro Cup ΑΝΔΡΩΝ",
-              "appearances": 0,
-              "honours": "",
-              "goals": 0
-            },
-            "otherEuropeCup": {
-              "name": "Τσάλεντζ καπ",
-              "appearances": 0,
-              "honours": "",
-              "goals": 0
-            }
-          }
-        }
-      ]
-    }, 
-        {
-      "id": 5,
-      "personal": {
-        "img": "https://www.avgi.gr/sites/default/files/styles/og_image/public/2021-10/POLO.jpg?itok=UzsVACGg",
-        "firstName": "Πολίστας",
-        "lastName": "Βήτα",
-        "country": "Ελλάδα",
-        "bornIn": "Αθήνα",
-        "bornOn": "21-06-1980",
-        "position": "Τερματοφύλακας"
-      },
-      "career": [
-        {
-          "season": "1997/98",
-          "competitions": {
-            "domesticLeague": {
-              "name": "Ελληνικό πρωτάθλημα",
-              "appearances": 80,
-              "honours": "",
-              "goals": 0
-            },
-            "domesticCup": {
-              "name": "Ελληνικό κύπελλο",
-              "appearances": 5,
-              "honours": "Πρώτος σκόρερ",
-              "goals": 0
-            },
-            "domesticSuperCup": {
-              "name": "Super Cup",
-              "appearances": 1,
-              "honours": "MVP",
-              "goals": 0
-            },
-            "championsLeague": {
-              "name": "Τσάμπιονς λιγκ",
-              "appearances": 5,
-              "honours": "",
-              "goals": 0
-            },
-            "europeCup": {
-              "name": "ΕEuro Cup ΑΝΔΡΩΝ",
-              "appearances": 0,
-              "honours": "",
-              "goals": 0
-            },
-            "otherEuropeCup": {
-              "name": "Τσάλεντζ καπ",
-              "appearances": 0,
-              "honours": "",
-              "goals": 0
-            }
-          }
-        },
-        {
-          "season": "1998/99",
-          "competitions": {
-            "domesticLeague": {
-              "name": "Ελληνικό πρωτάθλημα",
-              "appearances": 23,
-              "honours": "Πρωταθλητής, MVP πρωταθλήματος",
-              "goals": 0
-            },
-            "domesticCup": {
-              "name": "Ελληνικό ύπελλο",
-              "appearances": 5,
-              "honours": "",
-              "goals": 0
-            },
-            "domesticSuperCup": {
-              "name": "Super Cup",
-              "appearances": 0,
-              "honours": "",
-              "goals": 0
-            },
-            "championsLeague": {
-              "name": "Τσάμπιονς λιγκ",
-              "appearances": 0,
-              "honours": "",
-              "goals": 0
-            },
-            "europeCup": {
-              "name": "Euro Cup ΑΝΔΡΩΝ",
-              "appearances": 0,
-              "honours": "",
-              "goals": 0
-            },
-            "otherEuropeCup": {
-              "name": "Τσάλεντζ καπ",
-              "appearances": 0,
-              "honours": "",
-              "goals": 0
-            }
-          }
-        }
-      ]
-    }
-  ]
+[{
+		"id": 3,
+		"personal": {
+			"img": "https://www.avgi.gr/sites/default/files/styles/og_image/public/2021-10/POLO.jpg?itok=UzsVACGg",
+			"firstName": "Πολίστας",
+			"lastName": "Άλφα",
+			"country": "Ελλάδα",
+			"bornIn": "Αθήνα",
+			"bornOn": "21-06-1980",
+			"position": "Φουνταριστός"
+		},
+		"career": [{
+				"season": "1997/98",
+				"competitions": {
+					"domesticLeague": {
+						"name": "Ελληνικό πρωτάθλημα",
+						"appearances": 21,
+						"honours": "Πρώτος μπλοκέρ",
+						"goals": 15
+					},
+					"domesticCup": {
+						"name": "Ελληνικό κύπελλο",
+						"appearances": 5,
+						"honours": "Πρώτος σκόρερ",
+						"goals": 8
+					},
+					"domesticSuperCup": {
+						"name": "Super Cup",
+						"appearances": 1,
+						"honours": "MVP",
+						"goals": 24
+					},
+					"championsLeague": {
+						"name": "Τσάμπιονς λιγκ",
+						"appearances": 5,
+						"honours": "",
+						"goals": 6
+					},
+					"europeCup": {
+						"name": "Euro Cup ΑΝΔΡΩΝ",
+						"appearances": 0,
+						"honours": "",
+						"goals": 1
+					},
+					"otherEuropeCup": {
+						"name": "Τσάλεντζ καπ",
+						"appearances": 0,
+						"honours": "",
+						"goals": 0
+					}
+				}
+			},
+			{
+				"season": "1998/99",
+				"competitions": {
+					"domesticLeague": {
+						"name": "Ελληνικό πρωτάθλημα",
+						"appearances": 23,
+						"honours": "Πρωταθλητής, MVP πρωταθλήματος",
+						"goals": 25
+					},
+					"domesticCup": {
+						"name": "Ελληνικό ύπελλο",
+						"appearances": 5,
+						"honours": "",
+						"goals": 15
+					},
+					"domesticSuperCup": {
+						"name": "Super Cup",
+						"appearances": 0,
+						"honours": "",
+						"goals": 0
+					},
+					"championsLeague": {
+						"name": "Τσάμπιονς λιγκ",
+						"appearances": 0,
+						"honours": "",
+						"goals": 0
+					},
+					"europeCup": {
+						"name": "Euro Cup ΑΝΔΡΩΝ",
+						"appearances": 0,
+						"honours": "",
+						"goals": 0
+					},
+					"otherEuropeCup": {
+						"name": "Τσάλεντζ καπ",
+						"appearances": 0,
+						"honours": "",
+						"goals": 0
+					}
+				}
+			}
+		]
+	},
+	{
+		"id": 5,
+		"personal": {
+			"img": "https://www.avgi.gr/sites/default/files/styles/og_image/public/2021-10/POLO.jpg?itok=UzsVACGg",
+			"firstName": "Πολίστας",
+			"lastName": "Βήτα",
+			"country": "Ελλάδα",
+			"bornIn": "Αθήνα",
+			"bornOn": "21-06-1980",
+			"position": "Τερματοφύλακας"
+		},
+		"career": [{
+				"season": "1997/98",
+				"competitions": {
+					"domesticLeague": {
+						"name": "Ελληνικό πρωτάθλημα",
+						"appearances": 80,
+						"honours": "",
+						"goals": 0
+					},
+					"domesticCup": {
+						"name": "Ελληνικό κύπελλο",
+						"appearances": 5,
+						"honours": "Πρώτος σκόρερ",
+						"goals": 0
+					},
+					"domesticSuperCup": {
+						"name": "Super Cup",
+						"appearances": 1,
+						"honours": "MVP",
+						"goals": 0
+					},
+					"championsLeague": {
+						"name": "Τσάμπιονς λιγκ",
+						"appearances": 5,
+						"honours": "",
+						"goals": 0
+					},
+					"europeCup": {
+						"name": "ΕEuro Cup ΑΝΔΡΩΝ",
+						"appearances": 0,
+						"honours": "",
+						"goals": 0
+					},
+					"otherEuropeCup": {
+						"name": "Τσάλεντζ καπ",
+						"appearances": 0,
+						"honours": "",
+						"goals": 0
+					}
+				}
+			},
+			{
+				"season": "1998/99",
+				"competitions": {
+					"domesticLeague": {
+						"name": "Ελληνικό πρωτάθλημα",
+						"appearances": 23,
+						"honours": "Πρωταθλητής, MVP πρωταθλήματος",
+						"goals": 0
+					},
+					"domesticCup": {
+						"name": "Ελληνικό ύπελλο",
+						"appearances": 5,
+						"honours": "",
+						"goals": 0
+					},
+					"domesticSuperCup": {
+						"name": "Super Cup",
+						"appearances": 0,
+						"honours": "",
+						"goals": 0
+					},
+					"championsLeague": {
+						"name": "Τσάμπιονς λιγκ",
+						"appearances": 0,
+						"honours": "",
+						"goals": 0
+					},
+					"europeCup": {
+						"name": "Euro Cup ΑΝΔΡΩΝ",
+						"appearances": 0,
+						"honours": "",
+						"goals": 0
+					},
+					"otherEuropeCup": {
+						"name": "Τσάλεντζ καπ",
+						"appearances": 0,
+						"honours": "",
+						"goals": 0
+					}
+				}
+			}
+		]
+	}
+]
