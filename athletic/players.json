@@ -1,111 +1,110 @@
-
 [{
-		"id": 1,
-		"personal": {
-			"img": "https://cdn3.vectorstock.com/i/1000x1000/00/92/teen-boy-character-avatar-vector-11360092.jpg",
-			"firstName": "ΑΘλητής",
-			"lastName": "Παναθηναϊκού",
-			"country": "Ελλάδα",
-			"bornIn": "Αθήνα",
-			"bornOn": "21-06-1980",
-			"gender": "Άντρας",
-			"sports": [{
-					"sport:": "Sport 1",
-					"cat": "Categoty A",
-					"subcat": "Subcategory A1",
-					"group": true
-				},
-				{
-					"sport:": "Sport 1",
-					"cat": "Categoty B",
-					"subcat": "Subcategory A1"
-				},
-				{
-					"sport:": "Sport 1",
-					"cat": "Categoty A",
-					"subcat": "Subcategory B1",
-					"group": false
-				},
-				{
-					"sport:": "Sport 2",
-					"cat": "Categoty A",
-					"subcat": "Subcategory A2",
-					"group": true
-				}
-			]
-		}
-	},
-	{
-		"id": 2,
-		"personal": {
-			"img": "https://cdn3.vectorstock.com/i/1000x1000/00/92/teen-boy-character-avatar-vector-11360092.jpg",
-			"firstName": "ΑΘλητής 2",
-			"lastName": "Παναθηναϊκού",
-			"country": "Ιταλία",
-			"bornIn": "Ρώμη",
-			"bornOn": "21-06-1980",
-			"gender": "Άντρας",
-			"sports": [{
-					"sport:": "Sport 3",
-					"cat": "Categoty A",
-					"subcat": "Subcategory A1",
-					"group": true
-				},
-				{
-					"sport:": "Sport 3",
-					"cat": "Categoty B",
-					"subcat": "Subcategory A1"
-				},
-				{
-					"sport:": "Sport 3",
-					"cat": "Categoty A",
-					"subcat": "Subcategory B1",
-					"group": false
-				},
-				{
-					"sport:": "Sport 2",
-					"cat": "Categoty A",
-					"subcat": "Subcategory A2",
-					"group": true
-				}
-			]
-		}
-	},
-	{
-		"id": 2,
-		"personal": {
-			"img": "https://cdn5.vectorstock.com/i/1000x1000/01/69/businesswoman-character-avatar-icon-vector-12800169.jpg",
-			"firstName": "Αθλήτρια 1",
-			"lastName": "Παναθηναϊκού",
-			"country": "Ελλάδα",
-			"bornIn": "Αθήνα",
-			"bornOn": "21-06-1980",
-			"gender": "Γυναίκα",
-			"sports": [{
-					"sport:": "Sport 1",
-					"cat": "Categoty A",
-					"subcat": "Subcategory A1",
-					"group": true
-				},
-				{
-					"sport:": "Sport 8",
-					"cat": "Categoty B",
-					"subcat": "Subcategory A8"
-				},
-				{
-					"sport:": "Sport 3",
-					"cat": "Categoty A",
-					"subcat": "Subcategory B1",
-					"group": false
-				},
-				{
-					"sport:": "Sport 2",
-					"cat": "Categoty A",
-					"subcat": "Subcategory A2",
-					"group": true
-				}
-			]
-		}
+        "id": 1,
+        "personal": {
+            "img": "https://cdn3.vectorstock.com/i/1000x1000/00/92/teen-boy-character-avatar-vector-11360092.jpg",
+            "firstName": "ΑΘλητής",
+            "lastName": "Παναθηναϊκού",
+            "country": "Ελλάδα",
+            "bornIn": "Αθήνα",
+            "bornOn": "21-06-1980",
+            "gender": "Άντρας",
+            "sports": [{
+                    "sport:": "Sport 1",
+                    "cat": "Categoty A",
+                    "subcat": "Subcategory A1",
+                    "group": true
+                },
+                {
+                    "sport:": "Sport 1",
+                    "cat": "Categoty B",
+                    "subcat": "Subcategory A1"
+                },
+                {
+                    "sport:": "Sport 1",
+                    "cat": "Categoty A",
+                    "subcat": "Subcategory B1",
+                    "group": false
+                },
+                {
+                    "sport:": "Sport 2",
+                    "cat": "Categoty A",
+                    "subcat": "Subcategory A2",
+                    "group": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "personal": {
+            "img": "https://cdn3.vectorstock.com/i/1000x1000/00/92/teen-boy-character-avatar-vector-11360092.jpg",
+            "firstName": "ΑΘλητής 2",
+            "lastName": "Παναθηναϊκού",
+            "country": "Ιταλία",
+            "bornIn": "Ρώμη",
+            "bornOn": "21-06-1980",
+            "gender": "Άντρας",
+            "sports": [{
+                    "sport:": "Sport 3",
+                    "cat": "Categoty A",
+                    "subcat": "Subcategory A1",
+                    "group": true
+                },
+                {
+                    "sport:": "Sport 3",
+                    "cat": "Categoty B",
+                    "subcat": "Subcategory A1"
+                },
+                {
+                    "sport:": "Sport 3",
+                    "cat": "Categoty A",
+                    "subcat": "Subcategory B1",
+                    "group": false
+                },
+                {
+                    "sport:": "Sport 2",
+                    "cat": "Categoty A",
+                    "subcat": "Subcategory A2",
+                    "group": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "personal": {
+            "img": "https://cdn5.vectorstock.com/i/1000x1000/01/69/businesswoman-character-avatar-icon-vector-12800169.jpg",
+            "firstName": "Αθλήτρια 1",
+            "lastName": "Παναθηναϊκού",
+            "country": "Ελλάδα",
+            "bornIn": "Αθήνα",
+            "bornOn": "21-06-1980",
+            "gender": "Γυναίκα",
+            "sports": [{
+                    "sport:": "Sport 1",
+                    "cat": "Categoty A",
+                    "subcat": "Subcategory A1",
+                    "group": true
+                },
+                {
+                    "sport:": "Sport 8",
+                    "cat": "Categoty B",
+                    "subcat": "Subcategory A8"
+                },
+                {
+                    "sport:": "Sport 3",
+                    "cat": "Categoty A",
+                    "subcat": "Subcategory B1",
+                    "group": false
+                },
+                {
+                    "sport:": "Sport 2",
+                    "cat": "Categoty A",
+                    "subcat": "Subcategory A2",
+                    "group": true
+                }
+            ]
+        }
 
-	}
+    }
 ]
