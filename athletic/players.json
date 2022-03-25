@@ -89,7 +89,8 @@
                 {
                     "sport:": "Sport 8",
                     "cat": "Categoty B",
-                    "subcat": "Subcategory A8"
+                    "subcat": "Subcategory A8",
+                    "group": false
                 },
                 {
                     "sport:": "Sport 3",
