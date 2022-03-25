@@ -11,8 +11,7 @@
             "sports": [{
                     "sport": "Sport 1",
                     "cat": "Categoty A",
-                    "subcat": "Subcategory A1",
-                    "group": true
+                    "subcat": "Subcategory A1"
                 },
                 {
                     "sport": "Sport 1",
@@ -22,14 +21,12 @@
                 {
                     "sport": "Sport 1",
                     "cat": "Categoty A",
-                    "subcat": "Subcategory B1",
-                    "group": false
+                    "subcat": "Subcategory B1"
                 },
                 {
                     "sport": "Sport 2",
                     "cat": "Categoty A",
-                    "subcat": "Subcategory A2",
-                    "group": true
+                    "subcat": "Subcategory A2"
                 }
             ]
         }
@@ -47,8 +44,7 @@
             "sports": [{
                     "sport": "Sport 3",
                     "cat": "Categoty A",
-                    "subcat": "Subcategory A1",
-                    "group": true
+                    "subcat": "Subcategory A1"
                 },
                 {
                     "sport": "Sport 3",
@@ -58,14 +54,12 @@
                 {
                     "sport": "Sport 3",
                     "cat": "Categoty A",
-                    "subcat": "Subcategory B1",
-                    "group": false
+                    "subcat": "Subcategory B1"
                 },
                 {
                     "sport": "Sport 2",
                     "cat": "Categoty A",
-                    "subcat": "Subcategory A2",
-                    "group": true
+                    "subcat": "Subcategory A2"
                 }
             ]
         }
@@ -83,26 +77,22 @@
             "sports": [{
                     "sport": "Sport 1",
                     "cat": "Categoty A",
-                    "subcat": "Subcategory A1",
-                    "group": true
+                    "subcat": "Subcategory A1"
                 },
                 {
                     "sport": "Sport 8",
                     "cat": "Categoty B",
-                    "subcat": "Subcategory A8",
-                    "group": false
+                    "subcat": "Subcategory A8"
                 },
                 {
                     "sport": "Sport 3",
                     "cat": "Categoty A",
-                    "subcat": "Subcategory B1",
-                    "group": false
+                    "subcat": "Subcategory B1"
                 },
                 {
                     "sport": "Sport 2",
                     "cat": "Categoty A",
-                    "subcat": "Subcategory A2",
-                    "group": true
+                    "subcat": "Subcategory A2"
                 }
             ]
         }
