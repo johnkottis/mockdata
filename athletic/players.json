@@ -9,24 +9,24 @@
             "bornOn": "21-06-1980",
             "gender": "Άντρας",
             "sports": [{
-                    "sport:": "Sport 1",
+                    "sport": "Sport 1",
                     "cat": "Categoty A",
                     "subcat": "Subcategory A1",
                     "group": true
                 },
                 {
-                    "sport:": "Sport 1",
+                    "sport": "Sport 1",
                     "cat": "Categoty B",
                     "subcat": "Subcategory A1"
                 },
                 {
-                    "sport:": "Sport 1",
+                    "sport": "Sport 1",
                     "cat": "Categoty A",
                     "subcat": "Subcategory B1",
                     "group": false
                 },
                 {
-                    "sport:": "Sport 2",
+                    "sport": "Sport 2",
                     "cat": "Categoty A",
                     "subcat": "Subcategory A2",
                     "group": true
